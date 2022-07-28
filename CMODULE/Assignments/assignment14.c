@@ -2,9 +2,21 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 23.06.2022
  * DESCRIPTION: WAP TO GET 'n' BITS OF A GIVEN NUMBER
- * INPUT      : Enter the number: 10
- *              Enter number of bits: 3
- * OUTPUT     : Result = 2
+ * INPUT      :  Test Case 1:
+
+Enter the number: 10
+
+Enter number of bits: 3
+
+Result = 2
+
+Test Case 2:
+
+Enter the number: 15
+
+Enter number of bits: 2
+
+Result = 3
  * */
 
 #include <stdio.h>

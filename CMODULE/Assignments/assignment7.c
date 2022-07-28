@@ -2,11 +2,20 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 11.06.2022
  * DESCRIPTION: WAP TO PRINT TRIANGLE PATTERN AS SHOWN BELOW
- * INPUT      : Enter the number: 4
- * OUTPUT     : 1234
- *              5 6
- *              78
- *              9 
+ * INPUT      :  Test Case 1:
+Enter the number: 4
+1 2 3 4
+5     6
+7 8
+9
+
+Test Case 2:
+Enter the number: 5
+1 2 3 4 5
+6       7
+8    9
+10 11
+12
  * */ 
 
 #include<stdio.h>

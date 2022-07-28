@@ -2,8 +2,37 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 11.06.2022
  * DESCRIPTION: WAP TO GENERATE NEGATIVE FIBONACCI NUMBERS
- * INPUT      : Enter a number: -8
- * OUTPUT     : 0, 1, -1, 2, -3, 5, -8
+ * INPUT      :  Test Case 1 :
+
+user@emertxe] ./fibbonacci_series
+
+Enter a number: -8
+
+0, 1, -1, 2, -3, 5, -8
+
+Test Case 2:
+
+Enter a number: -10
+
+0, 1, -1, 2, -3, 5, -8
+
+Test Case 3:
+
+Enter a number: -21
+
+0, 1, -1, 2, -3, 5, -8, 13, -21
+
+Test Case 4: 
+
+Enter a number: -13
+
+0, 1, -1, 2, -3, 5, -8, 13
+
+Test Case 4: 
+
+Enter a number: 13
+
+Invalid input
  * */
 
 #include<stdio.h>

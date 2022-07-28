@@ -2,9 +2,17 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 28.06.2022
  * DESCRIPTION: WAP TO IMPLEMENT CIRCULAR LEFT SHIFT
- * INPUT      : Enter num: 12
- *              Enter n: 3
- * OUTPUT     : Result in Binary: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+ * INPUT      :  Test Case 1:
+user@emertxe] ./bit_ops
+
+Enter num: 12
+Enter n : 3
+Result in Binary: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+
+Test Case 2: 
+Enter num: -2
+Enter n : 3
+Result in Binary: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1
  * */
 #include <stdio.h>
 //Function prototype//

@@ -2,9 +2,21 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 03.07.2022
  * DESCRIPTION: WAP TO REMOVE DUPLICATE ELEMENTS IN A GIVEN ARRAY
- * INPUT      : Enter the size: 5
- *              Enter elements into the array: 5 1 3 1 5
- * OUTPUT     : After removing duplicates: 5 1 3
+ * INPUT      :  Test Case 1:
+
+Enter the size: 5
+
+Enter elements into the array: 5 1 3 1 5
+
+After removing duplicates: 5 1 3
+
+Test Case 2:
+
+Enter the size: 5
+
+Enter elements into the array: 2 1 1 1 5
+
+After removing duplicates: 2 1 5
  * */
 
 

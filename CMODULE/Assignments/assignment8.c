@@ -2,16 +2,26 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 12.06.2022
  * DESCRIPTION: WAP TO PRINT PYRAMID PATTERN AS SHOWN BELOW
- * INPUT      : Enter the number: 5
- * OUTPUT     : 5
- *              4 5
- *              3 4 5
- *              2 3 4 5
- *              1 2 3 4 5
- *              2 3 4 5
- *              3 4 5
- *              4 5
- *              5
+ * INPUT      : Test Case 1:
+Enter the number: 4
+4
+3 4
+2 3 4
+1 2 3 4
+2 3 4
+3 4
+4
+Test Case 2:
+Enter the number: 5
+5
+4 5
+3 4 5
+2 3 4 5
+1 2 3 4 5
+2 3 4 5
+3 4 5
+4 5
+5
  * */
 
 #include<stdio.h>

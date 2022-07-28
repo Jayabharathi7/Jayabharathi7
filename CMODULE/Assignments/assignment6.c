@@ -2,12 +2,20 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 11.06.2022
  * DESCRIPTION: WAP TO PRINT THE NUMBERS IN X FORMT AS SHOWN BELOW
- * INPUT      : Enter the number: 5
- * OUTPUT     : 1   5
- *               2 4
- *                3
- *               2 4
- *              1   5
+ * INPUT      :  Test Case 1:
+Enter the number: 4
+1  4
+ 23
+ 23
+1  4
+
+Test Case 2:
+Enter the number: 5
+1   5
+ 2 4
+  3
+ 2 4
+1   5
  * */
 
 #include<stdio.h>

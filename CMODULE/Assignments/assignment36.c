@@ -2,8 +2,33 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 09.07.2022
  * DESCRIPTION: WAP TO IMPLEMENT ATOI FUNCTION
- * INPUT      : Enter a numeric string: 12345
- * OUTPUT     : String to integer is 12345
+ * INPUT      :  Test Case 1 :
+Enter a numeric string: 12345
+String to integer is 12345
+
+Test Case 2 :
+Enter a numeric string: -12345
+String to integer is -12345
+
+Test Case 3 :
+Enter a numeric string: +12345
+String to integer is 12345
+
+Test Case 4 :
+Enter a numeric string: +-12345
+String to integer is 0
+
+Test Case 5 :
+Enter a numeric string: 12345-
+String to integer is 12345
+
+Test Case 6 :
+Enter a numeric string: abcd12345
+String to integer is 0
+
+Test Case 7 :
+Enter a numeric string: 12345abcd
+String to integer is 12345
  * */
 
 
@@ -35,7 +60,7 @@ int my_atoi(const char str[])
 		//Condition to run the loop upto NULL character//
 		while(str != NULL)
 		{
-				//Conditio to check the numeric value//
+				//Condition to check the numeric value//
 				if((*str - 48) < 0 || (*str - 48) > 9)
 				{
 						if(flag)
@@ -51,4 +76,5 @@ int my_atoi(const char str[])
 		else
 				return -num;
 }
+
 

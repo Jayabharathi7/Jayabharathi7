@@ -2,8 +2,15 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 09.07.2022
  * DESCRIPTION: WAP TO IMPLEMENT GETWORD FUNCTION
- * INPUT      : Enter the string: Welcome to Emertxe
- * OUTPUT     : You entered Welcome and the length is 7
+ * INPUT      :  Test Case 1:
+user@emertxe] ./getword
+Enter the string : Welcome to Emertxe
+You entered Welcome and the length is 7
+
+Test Case 2:
+user@emertxe] ./getword
+Enter the string : Hello
+You entered Hello and the length is 5
  * */
 
 
@@ -45,4 +52,5 @@ int getword(char str[])
 		}
 		return count;
 }
+
 

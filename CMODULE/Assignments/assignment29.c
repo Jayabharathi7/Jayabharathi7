@@ -2,8 +2,22 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 06.07.2022
  * DESCRIPTION: WAP to find factorial of given number using recursion
- * INPUT      : Enter the value of N: 7
- * OUTPUT     : Factorial of the given number is 5040
+ * INPUT      :  Test Case 1:
+user@emertxe] ./factorial
+Enter the value of N : 7
+Factorial of the given number is 5040
+
+Test Case 2:
+Enter the value of N : 5
+Factorial of the given number is 120
+
+Test case 3:
+Enter the value of N : -1
+Invalid Input
+
+Test case 4:
+Enter the value of N : 0
+Factorial of the given number is 1
  * */
 
 

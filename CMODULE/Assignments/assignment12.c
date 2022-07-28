@@ -2,8 +2,14 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 19.06.2022
  * DESCRIPTION: WAP TO PRINT ALL PRIMES USING SIEVE OF ERATOSTHENES METHOD
- * INPUT      : Enter the value of 'n': 20
- * OUTPUT     : The primes less than or equal to 20 are: 2, 3, 5, 7, 11, 13, 17, 19
+ * INPUT      :  Test Case 1: A positive number
+user@emertxe] ./prime_series
+Enter the value of 'n' : 20
+The primes less than or equal to 20 are : 2, 3, 5, 7, 11, 13, 17, 19
+Test Case 2 :
+
+Enter the value of 'n' : -20
+Please enter a positive number which is > 1
  * */
 
 

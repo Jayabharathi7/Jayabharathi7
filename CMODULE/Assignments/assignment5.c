@@ -2,12 +2,19 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 11.06.2022
  * DESCRIPTION: WAP TO GENERATE AP, GP, HP SERIES
- * INPUT      : Enter the First Number 'A': 2
- *              Enter the Common Difference / Ratio 'R': 2
- *              Enter the number of terms 'N': 5
- * OUTPUT     : AP = 2, 5, 8, 11, 14
- *              GP = 2, 6, 18, 54, 162
- *              HP = 0.500000, 0.200000, 0.125000, 0.090909, 0.071428
+ * INPUT      :  user@emertxe] ./progressions
+Enter the First Number 'A': 2
+Enter the Common Difference / Ratio 'R': 3
+Enter the number of terms 'N': 5
+AP = 2, 5, 8, 11, 14
+GP = 2, 6, 18, 54, 162
+HP = 0.500000, 0.200000, 0.125000, 0.090909, 0.071428
+
+Test Case 2:
+Enter the First Number 'A': 2
+Enter the Common Difference / Ratio 'R': 3
+Enter the number of terms 'N': -5
+Invalid input
  * */
 
 #include<stdio.h>

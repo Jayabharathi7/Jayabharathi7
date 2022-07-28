@@ -2,8 +2,15 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 09.07.2022
  * DESCRIPTION: WAP TO REVERSE THE GIVEN STRING USING RECURSIVE METHOD
- * INPUT      : Enter a string: Hello World
- * OUTPUT     : Reverse string is: dlroW olleH
+ * INPUT      :  Test Case 1:
+user@emertxe] ./str_rev
+Enter a string : Hello World
+Reverse string is : dlroW olleH
+
+Test Case 2:
+user@emertxe] ./str_rev
+Enter a string : EMERTXE
+Reverse string is : EXTREME
  * */
 
 

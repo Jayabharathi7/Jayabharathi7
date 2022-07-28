@@ -2,9 +2,31 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 15.06.2022
  * DESCRIPTION: WAP TO COUNT NUMBER OF SET BITS IN A GIVEN NUMBER AND PRINT PARITY
- * INPUT      : Enter the number: 7
- *              Number of set bits = 3
- * OUTPUT     : Bit parity is Odd
+ * INPUT      :  Test Case 1:
+
+Enter the number : 7
+
+Number of set bits = 3
+
+Bit parity is Odd
+
+
+
+Test Case 2:
+
+Enter the number : 15
+
+Number of set bits = 4
+
+Bit parity is Even
+
+Test Case 3:
+
+Enter the number : 6
+
+Number of set bits = 2
+
+Bit parity is Even
  * */
 
 #include<stdio.h>

@@ -2,8 +2,13 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 30.06.2022
  * DESCRIPTION: WAP TO IMPLEMENT YOUR OWN ISBLANK() FUNCTION
- * INPUT      : Enter the character: a
- * OUTPUT     : The character 'a' is not a blank character
+ * INPUT      :  Test Case 1:
+user@emertxe] ./c_type_lib
+Enter the character: a
+The character 'a' is not a blank character.
+Test Case 2:
+Enter the character:    //Entered space
+The character ' ' is a blank character.
  * */
 
 

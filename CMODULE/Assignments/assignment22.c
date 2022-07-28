@@ -2,8 +2,13 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 30.06.2022
  * DESCRIPTION: WAP TO IMPLEMENT YOUR OWN ISALNUM() FUNCTION
- * INPUT      : Enter the character: a
- * OUTPUT     : The character 'a' is an alnum character
+ * INPUT      :  Test Case 1:
+user@emertxe] ./c_type_lib
+Enter the character: a
+The character 'a' is an alnum character.
+Test Case 2:
+Enter the character: ?
+The character '?' is not an alnum character.
  * */
 
 

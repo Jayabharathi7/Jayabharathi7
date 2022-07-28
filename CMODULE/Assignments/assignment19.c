@@ -2,11 +2,13 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 27.06.2022
  * DESCRIPTION: WAP TO PUT THE (b - a + 1) LSB's OF NUM INTO VAL[b:a]
- * INPUT      : Enter the value of 'num': 11
- *              Enter the value of 'a': 3
- *              Enter the value of 'b': 5
- *              Enter the value of 'val': 174
- * OUTPUT     : Result: 158
+ * INPUT      :  Test Case 1:
+user@emertxe] ./bit_ops
+Enter the value of 'num' : 11
+Enter the value of 'a' : 3
+Enter the value of 'b' : 5
+Enter the value of 'val': 174
+Result : 158
  * */
 
 

@@ -2,9 +2,17 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 28.06.2022
  * DESCRIPTION: WAP TO IMPLEMENT CIRCULAR RIGHT SHIFT
- * INPUT      : Enter num: 12
- *              Enter n: 3
- * OUTPUT     : Result: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ * INPUT      :  Test Case 1:
+user@emertxe] ./bit_ops
+
+Enter num: 12
+Enter n : 3
+Result : 10000000 00000000 00000000 00000001
+
+Test Case 2: 
+Enter num: -12
+Enter n : 3
+Result : 10011111 11111111 11111111 11111110
  * */
 
 

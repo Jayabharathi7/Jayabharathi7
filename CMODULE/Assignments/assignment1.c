@@ -2,8 +2,26 @@
  * NAME        : JAYABHARATHI J
  * DATE        : 07.06.2022
  * DESCRIPTION : WAP TO CHECK IF NUMBER IS ODD OR EVEN
- * INPUT       : Enter the value of 'n':-2
- * OUTPUT      : -2 is negative even number
+ * INPUT       : Test Case 1:
+
+user@emertxe] ./even_odd
+
+Enter the value of 'n' : -2
+
+-2 is negative even number
+
+Test Case 2:
+
+Enter the value of 'n' : 2
+
+2 is positive even number
+
+Test Case 3:
+
+Enter the value of 'n' : 0
+
+0 is neither odd nor even
+ *              
  */
 
 //Header Inclusion//

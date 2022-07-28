@@ -2,9 +2,14 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 03.07.2022
  * DESCRIPTION: WAP TO FIND 3RD LARGEST ELEMENT IN AN ARRAY
- * INPUT      : Enter the size of the Array: 5
- *              Enter the elements into the array: 5 1 4 2 8
- * OUTPUT     : Third largest element of the array is 4
+ * INPUT      :  Test Case 1:
+Enter the size of the Array : 5
+Enter the elements into the array: 5 1 4 2 8
+Third largest element of the array is 4
+Test Case 2:
+Enter the size of the Array : 4
+Enter the elements into the array: 66 22 11 3
+Third largest element of the array is 11
  * */
 
 #include <stdio.h>

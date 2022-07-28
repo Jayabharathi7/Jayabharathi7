@@ -2,8 +2,21 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 11.06.2022
  * DESCRIPTION: WAP TO CHECK IF NUMBER IS PERFECT OR NOT
- * INPUT      : Enter a number: 6
- * OUTPUT     : Yes, entered number is perfect number
+ * INPUT      :  Test Case 1:
+
+Enter a number: 6
+
+Yes, entered number is perfect number
+
+Test Case 2:
+Enter a number: 10
+
+No, entered number is not a perfect number
+
+Test Case 3:
+Enter a number: -1
+
+Error : Invalid Input, Enter only positive number
  * */
  
 #include<stdio.h>

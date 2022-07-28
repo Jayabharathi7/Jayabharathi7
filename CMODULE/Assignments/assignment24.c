@@ -2,8 +2,13 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 30.06.2022
  * DESCRIPTION: WAP TO IMPLEMENT YOUR OWN ISLOWER() FUNCTION
- * INPUT      : Enter the character: a
- * OUTPUT     : Entered character is lower case alphabet
+ * INPUT      :  Test Case 1:
+user@emertxe] ./c_type_lib
+Enter the character: a
+Entered character is lower case alphabet
+Test Case 2:
+Enter the character:3
+Entered character is not lower case alphabet
  * */
 
 

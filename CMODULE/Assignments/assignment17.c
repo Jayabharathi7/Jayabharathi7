@@ -2,10 +2,25 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 23.06.2022
  * DESCRIPTION: WAP TO TOGGLE 'n' BITS FROM GIVEN POSITION OF A NUMBER
- * INPUT      : Enter the number: 10
- *              Enter number of bits: 3
- *              Enter the pos: 5
- * OUTPUT     : Result = 50
+ * INPUT      :  Test Case 1:
+
+Enter the number: 10
+
+Enter number of bits: 3
+
+Enter the pos: 5
+
+Result = 50
+
+Test Case 2:
+
+Enter the number: 15
+
+Enter number of bits: 2
+
+Enter the pos: 2
+
+Result =  9
  * */
 
 

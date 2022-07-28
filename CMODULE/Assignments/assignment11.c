@@ -2,10 +2,25 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 19.06.2022
  * DESCRIPTION: WAP TO CHECK N TH BIT IS SET OR NOT, IF YES, CLEAR THE M TH BIT
- * INPUT      : Enter the number: 19
- *              Enter 'N': 1
- *              Enter 'M': 4
- * OUTPUT     : Updated value of num is 3
+ * INPUT      :  Test Case 1:
+
+Enter the number: 19
+
+Enter 'N': 1
+
+Enter 'M': 4
+
+Updated value of num is 3 
+
+Test Case 2:
+
+Enter the number: 19
+
+Enter 'N': 2
+
+Enter 'M': 4
+
+Updated value of num is 19 
  * */
 
 #include<stdio.h>

@@ -2,9 +2,21 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 23.06.2022
  * DESCRIPTION: WAP TO PRINT 'n' BITS FROM LSB OF A NUMBER
- * INPUT      : Enter the number: 10
- *              Enter number of bits: 12
- * OUTPUT     : Binary form of 10: 0 0 0 0 0 0 0 0 1 0 1 0
+ * INPUT      :  Test Case 1:
+
+Enter the number: 10
+
+Enter number of bits: 12
+
+Binary form of 10: 0 0 0 0 0 0 0 0 1 0 1 0 
+
+Test Case 2:
+
+Enter the number: 15
+
+Enter number of bits: 4
+
+Binary form of 15: 1 1 1 1
  * */
 
 

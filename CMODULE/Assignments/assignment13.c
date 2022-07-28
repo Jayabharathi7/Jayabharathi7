@@ -2,15 +2,25 @@
  * NAME       : JAYABHARATHI J
  * DATE       : 21.06.2022
  * DESCRIPTION: WAP TO FIND THE MEDIAN OF TWO UNSORTED ARRAYS
- * INPUT      : Enter the 'n' value for Array A: 5
- *              Enter the 'n' value for Array B: 5
- *
- *              Enter the elements one by one for Array A: 3 2 8 5 4
- *              Enter the elements one by one for Array B: 12 3 7 8 5
- *
- * OUTPUT     : Median of array1: 4
- *              Median of array2: 7
- *              Median of both arrays: 5.5
+ * INPUT      :  Test Case 1: 
+
+Enter the 'n' value for Array A: 5
+Enter the 'n' value for Array B: 5
+
+Enter the elements one by one for Array A: 3 2 8 5 4
+Enter the elements one by one for Array B: 12 3 7 8 5
+
+Median of array1 : 4
+Median of array2 : 7
+Median of both arrays : 5.5                         
+Test Case 2:
+Enter the 'n' value for Array A: 5
+Enter the 'n' value for Array B: 4
+Enter the elements one by one for Array A: 3 2 8 5 4
+Enter the elements one by one for Array B: 12 13 7 5
+Median of array1 : 4
+Median of array2 : 9.5                                      
+Median of both arrays : 6.75  
  * */
 
 #include<stdio.h>
