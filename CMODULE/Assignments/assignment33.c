@@ -29,14 +29,14 @@ int main()
 		int ch_count = 0, w_count = 0, l_count = 0, flag = 1, flag1 = 1;
 		char ch;
 		//Running the loop upto EOF//
-		while((ch = getchar()) != EOF)
+		while((ch = getchar()) != -1)
 		{
 				//Incrementing the character count//
 				ch_count++;
 				//Checking the character is other than alphanumeric//
 				if((ch == 32) || (ch == 9) || (ch == '\n'))
 				{
-						if(flag)
+						if(flag == 1 && flag1 != 1)
 						{
 								//Incrementing the word count//
 								w_count++;
@@ -44,12 +44,20 @@ int main()
 						}
 				}
 				else
+				{
 						flag = 1;
+					        flag1 = 0;
+				}
 				if(ch == '\n')
+				{
+					        flag1 = 1;
 						//Incrementing the line count//
 						l_count++;
+				}
 		}
-        printf("\n");
+	        if(w_count == 0 && flag1)
+			w_count = -1;
+                printf("\n");
 		printf("Character count: %d\n", ch_count + 1);
 		printf("Line count: %d\n", l_count + 1);
 		printf("Word count: %d\n", w_count + 1);
