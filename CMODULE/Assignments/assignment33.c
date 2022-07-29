@@ -26,7 +26,7 @@ Word count : 5
 int main()
 {
 		//Declaring the variables//
-		int ch_count = 0, w_count = 0, l_count = 0, flag = 1;
+		int ch_count = 0, w_count = 0, l_count = 0, flag = 1, flag1 = 1;
 		char ch;
 		//Running the loop upto EOF//
 		while((ch = getchar()) != EOF)
