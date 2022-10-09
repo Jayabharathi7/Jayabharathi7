@@ -1,0 +1,12 @@
+#0
+1;are;1;file1.txt;
+#
+#7
+1;how;1;file1.txt;
+#
+#24
+1;you;1;file1.txt;
+#
+#26
+1;?;1;file1.txt;
+#
