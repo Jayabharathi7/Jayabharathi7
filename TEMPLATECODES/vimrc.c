@@ -35,6 +35,19 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 Information
 Updates upto 2022
