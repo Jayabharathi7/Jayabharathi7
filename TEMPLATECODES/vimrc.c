@@ -74,3 +74,12 @@ Additional songs - Despacito              Desiigner's panda
                    My heart will go on    Beat it
                    Serena's safari        White town's your women
                    
+Life cycle:   
+    1.Attitude(character and behaviour) and Habits       3.Energetic foods             5.Education and communication skills
+    2.Sleeping                                           4.Home or gym workouts
+
+Fashion:
+    1.Cloth      2.Colour      3.Size      4.Design      5.Extra wearable things
+    
+    
+    
