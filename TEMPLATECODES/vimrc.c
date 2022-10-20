@@ -62,8 +62,8 @@ Paris singers -  Male           Actress
                  
 USA singers - Male               Female                                                                   Actors               Actress
               The chainsmokers   Taylor swift     (Ariana grande)   (Lady gaga)       (Cardi B)           Leonardo Dicaprio    Kristen stewart
-              Maroon 5           Jennifer lopez   (Katy perry)      (Billie eilish)   (Camila cabello)    Tobey maguire        Emma stone
-                                 optional(8)      (Beyonce)         (Selena gomez)                        Andrew Garfield
+              Maroon 5           Optional(9)      (Katy perry)      (Billie eilish)   (Camila cabello)    Tobey maguire        Emma stone
+                                 (Jennifer lopez) (Beyonce)         (Selena gomez)                        Andrew Garfield
                                  
                                  
 Canada singers - Male                                 
