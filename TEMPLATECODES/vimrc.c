@@ -52,27 +52,27 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 Information
 Updates upto 2022
 UK singers - Male                                 Female                                                Actors                 Actress
-             Alan walker       Harry styles       Dua lipa     Jessie J          Clean bandit           Daniel Radcliffe       Keira knightley   
-             Ed sheeran        Zayn malik         Adele        Ellie goulding                           Robert pattinson       Rachel weisz
-             One Direction(5)                     Anne-Marie   Rita ora                                                        Kate winslet
+             Alan walker       Harry styles       Dua lipa       (Jessie J)          (Clean bandit)     Daniel Radcliffe       Keira knightley   
+             Ed sheeran        (Zayn malik)       Adele          (Ellie goulding)                       (Robert pattinson)     Rachel weisz
+             One Direction(5)                     (Anne-Marie)   (Rita ora)                                                    (Kate winslet)
              
              
 Paris singers -  Male           Actress
                  DJ snake       Emma watson              
                  
 USA singers - Male               Female                                                                   Actors               Actress
-              The chainsmokers   Taylor swift     (Ariana grande)   (Lady gaga)       (Cardi B)           Leonardo Dicaprio    Kristen stewart
-              Maroon 5           Optional(9)      (Katy perry)      (Billie eilish)   (Camila cabello)    Tobey maguire        Emma stone
-                                 (Jennifer lopez) (Beyonce)         (Selena gomez)                        Andrew Garfield
+              The chainsmokers   Taylor swift         (Ariana grande)   (Lady gaga)       (Cardi B)       Leonardo Dicaprio    Kristen stewart
+              Maroon 5           (Camila cabello)     (Katy perry)      (Billie eilish)                   Tobey maguire        Emma stone
+              (Michael Jackson)  (Jennifer lopez)     (Beyonce)         (Selena gomez)                    (Andrew Garfield)
                                  
                                  
 Canada singers - Male                                 
                  Justin Bieber                 
                                  
                                  
-Additional songs - Despacito              Desiigner's panda
-                   My heart will go on    Beat it
-                   Serena's safari        White town's your women
+Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off
+                   My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)
+                   Serena's safari        White town's your women   Indila-Derniere danse
                    
 Life cycle:   
     1.Attitude(character and behaviour) and Habits       3.Energetic foods             5.Education and communication skills
