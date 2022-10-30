@@ -72,7 +72,9 @@ Canada singers - Male
                                  
 Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off
                    My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)
-                   Serena's safari        White town's your women   Indila-Derniere danse
+                   Serena's safari        White town's your women   Indila-Derniere danse   NFS MW(2005 soundtrack)
+             
+UK Comedian - Rowan atkinson(Mr.Bean)           China Actor - Jackie chan             
                    
 Life cycle:   
     1.Attitude(character and behaviour) and Habits       3.Energetic foods             5.Education and communication skills
