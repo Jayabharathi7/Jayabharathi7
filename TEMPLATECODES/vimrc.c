@@ -50,7 +50,7 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 /*
 Information
-Updates upto 2022
+Updates upto 2023
 
 Accounts:
 For PDF Documents:
@@ -86,12 +86,7 @@ Canada singers - Male
 Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off              Shakira's Waka Waka
                    My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)
                    Serena's safari        White town's your women   Indila-Derniere danse   NFS MW(2005 soundtrack)
-             
-UK Comedian - Rowan atkinson(Mr.Bean)           China Actor - Jackie chan
-
-Indian Singers - 1.Arijit Singh  2.A.R Rahman  3.Shreya Ghoshal   4.Sid Sriram 
-
-Best Sportsman - 1.Lionel Messi   2.Cristiano Ronaldo
+                   
                    
 Life cycle:   
     1.Attitude(character and behaviour) and Habits       3.Energetic foods             5.Education and communication skills
