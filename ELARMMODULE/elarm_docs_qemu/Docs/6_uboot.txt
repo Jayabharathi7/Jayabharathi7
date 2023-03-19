@@ -1,0 +1,8 @@
+# Configuring U-Boot
+make vexpress_ca9x4_defconfig
+
+# Build U-boot
+make -j$(nproc) ARCH=arm CROSS_COMPILE=arm-linux-
+
+# Run using Qemu
+qemu-arm-system -M vexpress-a9 -nographic -kernel u-boot

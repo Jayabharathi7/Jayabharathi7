@@ -1,0 +1,24 @@
+# Create a base directory
+mkdir RoofFS
+cd RootFS
+
+# Create a ext2 image of size 256 MB
+qemu-img create rootfs.ext2 256M
+
+# Format the image
+mkfs.ext2 rootfs.ext2
+
+# Create a mount point
+mkdir MountPoint
+
+# Mount the image
+sudo mount –t ext2 rootfs.ext2 MountPoint
+
+# Extract the file system. Make sure your buildroot path is correct
+sudo tar -C MountPoint -xvf ../buildroot/output/images/rootfs.tar
+
+# Unmount the partition
+sudo umount MountPoint
+
+# Run qemu with -sd option. Assuming you are in kernel top level dircetory.
+qemu-system-arm -M vexpress-a9 -nographic -kernel arch/arm/boot/zImage -dtb arch/arm/boot/dts/vexpress-v2p-ca9.dtb -sd ../RootFS/rootfs.ext2 -append “console=ttyAMA0 root=/dev/mmcblk0”

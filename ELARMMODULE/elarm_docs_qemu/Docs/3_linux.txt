@@ -1,0 +1,5 @@
+# Kernel Configuration
+make ARCH=arm vexpress_defconfig
+
+# Kernel Build
+make -j$(nproc) ARCH=arm CROSS_COMPILE=arm-linux-

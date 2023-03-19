@@ -1,0 +1,8 @@
+# Check for available serial port
+ls -l /dev/ttyU* # Should see the output ttyUSB0 or ttyUSB1 depending on the number of ports connected
+
+# Adding the current user to dialout group
+sudo usermod -a -G dialout emertxe # Need to logout and login back inorder to reflect the change
+ 
+# Start Serial Appliction which supports x, y, z modem protocols
+minicom -owD /dev/ttyUSB0

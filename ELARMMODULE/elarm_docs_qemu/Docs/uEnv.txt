@@ -1,0 +1,3 @@
+bootcmd=run sd_boot
+sd_boot=echo Booting from SD Card ...;load mmc 0 0x60000000 boot/zImage;load mmc 0 0x61D00000 boot/vexpress-v2p-ca9.dtb;run sd_args;bootz 0x60000000 - 0x61D00000
+sd_args=setenv bootargs console=ttyAMA0,38400n8 root=/dev/mmcblk0 rootfstype=ext2

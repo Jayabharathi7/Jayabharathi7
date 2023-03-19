@@ -1,0 +1,6 @@
+# Create a project dircetory in users home directory
+mkdir ~/E-Linux
+
+# Create Sources directory to store downloaded packages
+cd E-Linux
+mkdir Sources

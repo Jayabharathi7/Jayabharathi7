@@ -1,0 +1,11 @@
+# Update the package list
+sudo apt update
+
+# Needed by Buildroot
+sudo apt install sed make binutils gcc g++ bash patch gzip bzip2 perl tar cpio python unzip rsync wget libncurses5-dev bison flex gawk texinfo
+
+# Needed while working with the Target Board
+sudo apt install lrzsz minicom tftp-hpa tftpd-hpa
+
+# Needed while working with Linux
+sudo apt install lzop u-boot-tools libssl-dev libgmp3-dev libmpc-dev

@@ -1,0 +1,2 @@
+# Run Qemu - zImage with initramfs. Assuming you are in kernel top level dircetory
+qemu-system-arm -M vexpress-a9 -nographic -kernel arch/arm/boot/zImage -dtb -dtb arch/arm/boot/dts/vexpress-v2p-ca9.dtb

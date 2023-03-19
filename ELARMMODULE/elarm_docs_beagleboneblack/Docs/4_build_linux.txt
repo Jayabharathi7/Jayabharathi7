@@ -1,0 +1,6 @@
+# Configuring Linux Kernel
+make multi_v7_defconfig
+
+# Build Linux Kernel
+make uImage LOADADDR=0x80008000 am335x-boneblack.dtb
+
