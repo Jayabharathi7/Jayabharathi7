@@ -66,21 +66,21 @@ For Coding Platforms:
 
 UK singers - Male                                 Female                                                Actors                 Actress
              Alan walker       Harry styles       Dua lipa       (Jessie J)          (Clean bandit)     Daniel Radcliffe       Keira knightley   
-             Ed sheeran        (Zayn malik)       Adele          (Ellie goulding)                       (Robert pattinson)     Rachel weisz
+             Ed sheeran        Zayn malik         Adele          (Ellie goulding)                       (Robert pattinson)     Rachel weisz
              One Direction(5)                     (Anne-Marie)   (Rita ora)                                                    (Kate winslet)
              
              
 Paris singers -  Male           Actress
                  DJ snake       Emma watson              
                  
-USA singers - Male               Female                                                                   Actors               Actress
-              The chainsmokers   Taylor swift         (Ariana grande)   (Lady gaga)       (Cardi B)       Leonardo Dicaprio    Kristen stewart
-              Maroon 5           (Camila cabello)     (Katy perry)      (Billie eilish)                   Tobey maguire        Emma stone
-              (Michael Jackson)  (Jennifer lopez)     (Beyonce)         (Selena gomez)                    (Andrew Garfield)
+USA singers - Male                Female                                                                    Actors               Actress
+              The chainsmokers    Taylor swift       (Selena gomez)    (Jennifer lopez)     (Cardi B)       Leonardo Dicaprio    Kristen stewart
+              Maroon 5            Katy perry         (Lady gaga)       (Billie eilish)                      Tobey maguire        Emma stone
+              (Michael Jackson)   Ariana grande      (Beyonce)         (Camila cabello)                     (Andrew Garfield)
                                  
                                  
 Canada singers - Male                                 
-                 Justin Bieber                 
+                 Justin Bieber                
                                  
                                  
 Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off              Shakira's Waka Waka
