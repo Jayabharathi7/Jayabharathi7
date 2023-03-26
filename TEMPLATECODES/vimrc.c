@@ -64,19 +64,19 @@ For Coding Platforms:
    Password : bharathi1999@                               Username : bharathi1999
    Name     : Jayabharathi7                               Passwd   : $Source+Forge_@1999=~;
 
-UK singers - Male                                 Female                                                Actors                 Actress
-             Alan walker       Harry styles       Dua lipa       (Jessie J)          (Clean bandit)     Daniel Radcliffe       Keira knightley   
-             Ed sheeran        Zayn malik         Adele          (Ellie goulding)                       (Robert pattinson)     Rachel weisz
-             One Direction(5)                     (Anne-Marie)   (Rita ora)                                                    (Kate winslet)
+UK singers - Male                                 Female                    Actors                 Actress
+             Alan walker       Harry styles       Dua lipa                  Daniel Radcliffe       Keira knightley   
+             Ed sheeran        Zayn malik         Adele                     (Robert pattinson)     Rachel weisz
+             One Direction(5)                     (Ellie goulding)                                 (Kate winslet)
              
              
 Paris singers -  Male           Actress
                  DJ snake       Emma watson              
                  
-USA singers - Male                Female                                                                    Actors               Actress
-              The chainsmokers    Taylor swift       (Selena gomez)    (Jennifer lopez)     (Cardi B)       Leonardo Dicaprio    Kristen stewart
-              Maroon 5            Katy perry         (Lady gaga)       (Billie eilish)                      Tobey maguire        Emma stone
-              (Michael Jackson)   Ariana grande      (Beyonce)         (Camila cabello)                     (Andrew Garfield)
+USA singers - Male                Female                                     Actors                Actress
+              The chainsmokers    Taylor swift       (Selena gomez)          Leonardo Dicaprio     Kristen stewart
+              Maroon 5            Katy perry         (Jennifer lopez)        Tobey maguire         Emma stone
+                                  Ariana grande                              (Andrew Garfield)
                                  
                                  
 Canada singers - Male                                 
@@ -84,7 +84,7 @@ Canada singers - Male
                                  
                                  
 Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off              Shakira's Waka Waka
-                   My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)
+                   My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)     Clean bandit's-Rockabye
                    Serena's safari        White town's your women   Indila-Derniere danse   NFS MW(2005 soundtrack)
                    
                    
