@@ -75,7 +75,7 @@ Paris singers -  Male           Actress
                  
 USA singers - Male                Female                                     Actors                Actress
               The chainsmokers    Taylor swift       (Selena gomez)          Leonardo Dicaprio     Kristen stewart
-              Maroon 5            Katy perry         (Jennifer lopez)        Tobey maguire         Emma stone
+              Maroon 5            Katy perry                                 Tobey maguire         Emma stone
                                   Ariana grande                              (Andrew Garfield)
                                  
                                  
@@ -85,7 +85,7 @@ Canada singers - Male
                                  
 Additional songs - Despacito              Desiigner's panda         Post malone-Rockstar    Future-Mask off              Shakira's Waka Waka
                    My heart will go on    Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)     Clean bandit's-Rockabye
-                   Serena's safari        White town's your women   Indila-Derniere danse   NFS MW(2005 soundtrack)
+                   Serena's safari        White town's your women   Indila-Derniere danse   Sia-Unstoppable              Jennifer lopez's-On the floor
                    
                    
 Life cycle:   
