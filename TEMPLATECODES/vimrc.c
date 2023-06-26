@@ -83,10 +83,11 @@ Canada singers - Male
                  Justin Bieber                
                                  
                                  
-Additional songs - Despacito               Desiigner's panda         Post malone-Rockstar    Future-Mask off             Shakira's Waka Waka
-                   My heart will go on     Imran Khan-Satisfya       Sia-Cheap thrills       NCS(No Copyright Sounds)    Clean bandit's-Rockabye
-                   Serena's safari         White town's your women   Indila-Derniere danse   Sia-Unstoppable             Jennifer lopez's-On the floor
-                   Billie Eilish's-Lovely
+Additional songs - Despacito               Desiigner's panda              Post malone-Rockstar    Future-Mask off                       Shakira's Waka Waka             Cartoon-On & On
+                   My heart will go on     Imran Khan-Satisfya            Sia-Cheap thrills       NCS(No Copyright Sounds)              Clean bandit's-Rockabye         Glass Animals-Heat Waves
+                   Serena's safari         White town's your women        Indila-Derniere danse   Sia-Unstoppable                       Jennifer lopez's-On the floor   Duncan Laurence-Arcade 
+                   Billie Eilish's-Lovely  Serhat Durmus's Hislerim       2pac-Time Back          Lindsey Stirling-Carol of the bells   DVRST-Close Eyes                Jaymes Young-Infinity
+                   Lost Sky-Fearless pt.II Elley Duhe-Middle of the night Indila-Love Story       Indila-Tourner Dans Le Vide           Dharia-Sugar & Brownies
                    
                    
 Life cycle:   
