@@ -73,21 +73,21 @@ UK singers - Male                                 Female                    Acto
 Paris singers -  Male           Actress
                  DJ snake       Emma watson              
                  
-USA singers - Male                Female                                     Actors                Actress
-              The chainsmokers    Taylor swift       (Selena gomez)          Leonardo Dicaprio     Kristen stewart
-              Maroon 5            Katy perry                                 Tobey maguire         Emma stone
-                                  Ariana grande                              (Andrew Garfield)
+USA singers - Male                Female                  Actors                Actress
+              The chainsmokers    Taylor swift            Leonardo Dicaprio     Kristen stewart
+              Maroon 5            Katy perry              Tobey maguire         Emma stone
+                                  (Salena gomez)          (Andrew Garfield)
                                  
                                  
 Canada singers - Male                                 
                  Justin Bieber                
                                  
                                  
-Additional songs - Despacito               Desiigner's panda              Post malone-Rockstar    Future-Mask off                       Shakira's Waka Waka             Cartoon-On & On
-                   My heart will go on     Imran Khan-Satisfya            Sia-Cheap thrills       NCS(No Copyright Sounds)              Clean bandit's-Rockabye         Glass Animals-Heat Waves
-                   Serena's safari         White town's your women        Indila-Derniere danse   Sia-Unstoppable                       Jennifer lopez's-On the floor   Duncan Laurence-Arcade 
-                   Billie Eilish's-Lovely  Serhat Durmus's Hislerim       2pac-Time Back          Lindsey Stirling-Carol of the bells   DVRST-Close Eyes                Jaymes Young-Infinity
-                   Lost Sky-Fearless pt.II Elley Duhe-Middle of the night Indila-Love Story       Indila-Tourner Dans Le Vide           Dharia-Sugar & Brownies
+Additional songs - Despacito                     Desiigner's panda                 Shakira's Waka Waka          Cartoon-On & On
+                   My heart will go on           Imran Khan-Satisfya               NCS(No Copyright Sounds)     Clean bandit's-Rockabye         
+                   Serena's safari               White town's your women           Sia-Unstoppable              Jennifer lopez's-On the floor   
+                   Serhat Durmus's Hislerim      2pac-Time Back                    DVRST-Close Eyes             Jaymes Young-Infinity
+                   Lost Sky-Fearless pt.II       Elley Duhe-Middle of the night    Dharia-Sugar & Brownies
                    
                    
 Life cycle:   
