@@ -82,11 +82,14 @@ Fedora     Linux          Debian
 MAC_OS     Unix           Blackberry
 
 
-
-	
-	
-
-
+Top Semiconductor Manufactures:
+Taiwan Semiconductor Manufactures(TSM)  Micron Tech         Advanced Micro Devices  Renesas             MediaTek
+Intel                                   NVIDIA              ASML Holding            Texas Instruments   RIR Power Electronics
+Qualcomm                                Applied Materials   Infineon Tech           Analog Devices      Samsung Electronics
+Broadcomm                               ASE Tech            Microchip               STMicroelectronics  NXP Semiconductor
+SK Hynix                                ON Semiconductor    LAM Research            Global Foundries    NASDAQ : AMAT
+Apple                                   Sony                Panasonic               Toshiba             Rohm semiconductor
+Silicon labs
 
 
 
