@@ -54,7 +54,7 @@ Updates upto 2023
 
 Accounts:
 For PDF Documents:
-1. Google Drive:                                 2. Adobe Acrobat:                            3.Dropbox:
+1. Google Drive:                                 2. Adobe Acrobat:                            3. Dropbox:
    Email : bharathijayaram1999@gmail.com            Email : bharathijayaram1999@gmail.com       Email : Same Google Account
    Psswd : bharathi (or) bharathi1999
    
