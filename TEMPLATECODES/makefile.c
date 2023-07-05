@@ -59,7 +59,7 @@ ESP32	      Arduino   Teensy       NXP LPC      TI
 	
 
 Top Tools:
-Keil      MPLAB          Espressif  
+Keil      MPLAB          Espressif-IDE  
 MATLAB    CCS
 Ubuntu    SDK
 IDE       Arduino IDE
