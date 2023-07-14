@@ -83,11 +83,11 @@ Canada singers - Male
                  Justin Bieber                
                                  
                                  
-Additional songs - Despacito                     Desiigner's panda                 Shakira's Waka Waka          Cartoon-On & On
-                   My heart will go on           Imran Khan-Satisfya               NCS(No Copyright Sounds)     Clean bandit's-Rockabye         
-                   Serena's safari               White town's your women           Sia-Unstoppable              Jennifer lopez's-On the floor   
-                   Serhat Durmus's Hislerim      2pac-Time Back                    DVRST-Close Eyes             Jaymes Young-Infinity
-                   Lost Sky-Fearless pt.II       Elley Duhe-Middle of the night    Dharia-Sugar & Brownies
+Additional songs - Despacito                         Shakira's Waka Waka          Cartoon-On & On
+                   My heart will go on               NCS(No Copyright Sounds)     Clean bandit's-Rockabye         
+                   Serena's safari                   Sia-Unstoppable              Jennifer lopez's-On the floor   
+                   Serhat Durmus's Hislerim          Lost Sky-Fearless pt.II      Jaymes Young-Infinity
+                   Elley Duhe-Middle of the night    Dharia-Sugar & Brownies
                    
                    
 Life cycle:   
