@@ -83,13 +83,10 @@ Canada singers - Male
                  Justin Bieber                
                                  
                                  
-Additional songs - Despacito                         Shakira's Waka Waka          Cartoon-On & On
-                   My heart will go on               NCS(No Copyright Sounds)     Clean bandit's-Rockabye         
-                   Serena's safari                   Sia-Unstoppable              Jennifer lopez's-On the floor   
-                   Serhat Durmus's Hislerim          Lost Sky-Fearless pt.II      Jaymes Young-Infinity
-                   Elley Duhe-Middle of the night    Dharia-Sugar & Brownies
+Additional songs - Despacito                         Shakira's Waka Waka          Jennifer lopez's-On the floor
+                   My heart will go on               Clean bandit's-Rockabye      Sia-Unstoppable  
                    
-                   
+
 Life cycle:   
     1.Attitude(character and behaviour) and Habits       3.Energetic foods             5.Education and communication skills
     2.Sleeping                                           4.Home or gym workouts
