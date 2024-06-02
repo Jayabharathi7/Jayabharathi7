@@ -76,7 +76,7 @@ Paris singers -  Male           Actress
 USA singers - Male                Female                  Actors                Actress
               The chainsmokers    Taylor swift            Leonardo Dicaprio     Kristen stewart
               Maroon 5            Katy perry              Brad Pitt             Emma stone
-                                  (Salena gomez)          Tobey maguire
+                                  (Salena gomez)          (Tobey maguire)
                                  
                                  
 Canada singers - Male                                 
