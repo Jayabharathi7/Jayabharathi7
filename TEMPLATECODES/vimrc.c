@@ -61,12 +61,12 @@ For PDF Documents:
 For Coding Platforms:   
 1. Github Profile:                                2. SourceForge Profile:                 3. Online GDB Compiler:
    Username : bharathijayaram1999@gmail.com          Name     : Bharathi                     User : Same Google Account
-   Password : bharathi@1999                         Username : bharathi1999
+   Password : bharathi1999@                          Username : bharathi1999
    Name     : Jayabharathi7                          Passwd   : $Source+Forge_@1999=~;
 
 UK singers - Male                                 Female                    Actors                 Actress
              Alan walker       Harry styles       Dua lipa                  Daniel Radcliffe       Keira knightley   
-             Ed sheeran        Zayn malik         Adele                     (Robert pattinson)     Rachel weisz
+             Ed sheeran        Zayn malik         Adele                                            Rachel weisz
              One Direction(5)                     (Ellie goulding)                                 (Kate winslet)
              
              
@@ -74,10 +74,16 @@ Paris singers -  Male           Actress
                  DJ snake       Emma watson              
                  
 USA singers - Male                Female                  Actors                Actress
-              The chainsmokers    Taylor swift            Leonardo Dicaprio     Kristen stewart
-              Maroon 5            Katy perry              Brad Pitt             Emma stone
-                                  (Salena gomez)          (Tobey maguire)
-                                 
+              The chainsmokers    Taylor swift            Leonardo Dicaprio     Nicole Kidman
+              Maroon 5            Katy perry              Brad Pitt             
+                                  (Salena gomez)          Tom Hanks
+                                                          (Tobey Maguire)
+
+Italy    -    Actress
+              Amy Adams
+
+China    -    Actor
+              Jackie Chan
                                  
 Canada singers - Male                                 
                  Justin Bieber                
