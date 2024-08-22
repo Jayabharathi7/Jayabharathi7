@@ -91,54 +91,66 @@ SK Hynix                                ON Semiconductor    LAM Research        
 Apple                                   Sony                Panasonic               Toshiba             Rohm semiconductor
 Silicon labs
 
-Top IT companies:
-Apple     - USA       Adobe    - USA      Cognizant - USA       Deloitte - USA   Mphasis  - India    Honeywell - USA
-Google    - USA       HP       - USA      Capgemini - France    Facebook - USA   LG Soft  - Korea
-Oracle    - USA       Amazon   - USA      SAP       - Germany   Intel    - USA   Mindtree - India 
-Accenture - Ireland   Alphabet - USA      Nvidia    - USA       Dell     - USA   HCL      - India
-TCS       - India     Meta     - USA      Wipro     - India     Qualcomm - USA   L & T    - India
-Microsoft - USA       Infosys  - India    Broadcom  - USA       TI       - USA   KPIT     - India
-IBM       - USA	      TSMC     - Taiwan   Cisco     - USA       Zoho     - USA    
+Top IT Companies:
+Apple     - USA         Adobe    - USA        Cognizant - USA         Deloitte - USA      Mphasis  - India      Honeywell          - USA
+Google    - USA         HP       - USA        Capgemini - France      Facebook - USA      LG Soft  - Korea      Schneider electric - France
+Oracle    - USA         Amazon   - USA        SAP       - Germany     Intel    - USA      Mindtree - India 
+Accenture - Ireland     Alphabet - USA        Nvidia    - USA         Dell     - USA      HCL      - India
+TCS       - India       Meta     - USA        Wipro     - India       Qualcomm - USA      L & T    - India
+Microsoft - USA         Infosys  - India      Broadcom  - USA         TI       - USA      KPIT     - India
+IBM       - USA	        TSMC     - Taiwan     Cisco     - USA         Zoho     - USA    
 
-Berkshire Hathaway - USA            DXC Technology       - USA        Tech Mahindra       - India
-Samsung            - South korea    Visteon Technology   - USA        LTI Mindtree        - India
-Salesforce         - USA            UST Global           - USA        Sasken Technologies - India
-Micron Technology  - USA	    Continental          - Germany
-Philips            - Netherlands    Hexaware Technolgies - India
-NXP Semiconductors - Netherlands    Tata Elxsi           - India
-Analog Devices     - USA	    Robert Bosch         - Germany
+Berkshire Hathaway - USA              DXC Technology       - USA          Tech Mahindra       - India
+Samsung            - South korea      Visteon Technology   - USA          LTI Mindtree        - India
+Salesforce         - USA              UST Global           - USA          Sasken Technologies - India
+Micron Technology  - USA	      Continental          - Germany      Infineon Technology - Germany
+Philips            - Netherlands      Hexaware Technolgies - India        STMicroelectronics  - Switzerland
+NXP Semiconductors - Netherlands      Tata Elxsi           - India
+Analog Devices     - USA	      Robert Bosch         - Germany
 
 Indian Products:
-MRF              SBI      Reliance Jio    
-Ashok Leyland    HDFC     Karbonn Mobiles
-Royal Enfield    KVB      Lava
-FLipkart         Airtel   Micromax
-Paytm            BSNL     Hero Motocorp
-Ola              Bajaj    TVS motor
+MRF                SBI        Reliance Jio        Mahindra
+Ashok Leyland      HDFC       Karbonn Mobiles     Tata Motors
+Royal Enfield      KVB        Lava
+FLipkart           Airtel     Micromax
+Paytm              BSNL       Hero Motocorp
+Ola                Bajaj      TVS motor
 
 Products:
 vodafone - UK
 
 Mobiles:
-Xiaomi - China   Samsung    - South Korea   Lenovo  - china    Oppo     - China   Huawei - China
-Vivo   - China   Apple      -  USA          Nokia   - Finland  Motorolo - USA     Sony   - Japan
-Realme - China	 Blackberry - Canada        Oneplus - China    POCO     - China
+Xiaomi - China     Samsung    - South Korea    Lenovo  - china       Oppo     - China     Huawei - China
+Vivo   - China     Apple      - USA            Nokia   - Finland     Motorolo - USA       Sony   - Japan
+Realme - China	   Blackberry - Canada         Oneplus - China       POCO     - China
 
 Laptops:
-Dell   - USA      Acer  - Taiwan   Microsoft - USA           Xiaomi - China
-HP     - USA      Asus  - Taiwan   Samsung   - South korea
-Lenovo - China	  Apple - USA      LG        - South korea
+Dell   - USA       Acer  - Taiwan      Microsoft - USA             Xiaomi - China
+HP     - USA       Asus  - Taiwan      Samsung   - South korea
+Lenovo - China	   Apple - USA         LG        - South korea
 
 Bikes:
-Honda  - Japan   Kawasaki - Japan     Harley Davidson - USA
-Yamaha - Japan   Aprilia  - Italy
-Ducati - Italy   KTM      - Austria 
+Honda  - Japan     Kawasaki - Japan       Harley Davidson - USA
+Yamaha - Japan     Aprilia  - Italy
+Ducati - Italy     KTM      - Austria 
 
+Cars:
+Toyota  - Japan          Ford    - USA            Audi          - Germany     MG Motors   - UK       Ferrari - Italy     Buggati     - France
+Hyundai - South Korea    kia     - South Korea    Volkswagen    - Germany     Nissan      - Japan    Renualt - France    Lamborghini - Italy
+Honda   - Japan          Porsche - Germany        Merceded Benz - Germany     Suzuki      - Japan    Jeep    - Italy
+BMW     - Germany        Tesla   - USA            Chevrolet     - USA         Rolls royce - UK
 
+Top Countries:
+Switzerland      Australia          Germany          Netherlands
+Canada           Unites States      New Zealand
+Sweden           Japan              United Kingdom
 
+Mostly European countries has best life cycle. United Kingdom shows how to live.
 
-
-
+Richest Persons:
+Elon Musk                   Mark Zuckerberg     
+Jeff Bezos                  Bill Gates
+Bernard Arnualt & Family
 
 
 
