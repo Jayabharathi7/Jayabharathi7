@@ -102,3 +102,39 @@ Fashion:
         
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
+Football:
+FIFA Ballon d'Or                       FIFA World Player of the Year    FIFA World Cup Golden Glove Award
+UEFA Men's Player of the Year Award    FIFA Puskas Award                Golden Boy Award
+The Best FIFA Men's Player Award       European Golden Shoe             FIFA World Cup Golden Ball
+
+FIFA World Cup Trophy         UEFA Champions League Trophy     Copa America
+UEFA Europa League Trophy     English Premier League Trophy
+FA Cup Trophy                 UEFA European Championship
+
+Leagues:   1.Bundesliga     2.Premier League     3.Serie A      4.La Liga      5.Ligue 1       6.Primeira Liga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
