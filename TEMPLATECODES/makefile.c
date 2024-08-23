@@ -49,7 +49,7 @@ clean:
 
 
 /*
-Updates upto 2023
+Updates upto 2024
 
 Top Microcontrollers:
 PIC           STM       Beaglebone   ARM          ATtiny(AVR)    Microchip(AVR, ATmega, PIC)
