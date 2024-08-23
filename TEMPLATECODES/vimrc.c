@@ -153,10 +153,7 @@ Farmlite Digestive.                       Pistachio     Brussels Sprouts
 Household Items:
 Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhaler
 Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes and
-Axe,Lynx,Fogg  Watch,Chain,Glass,Trimmer,Headset         other things.
-
-Change depend upon places.
-Repeat the updates everytime.   
+Axe,Lynx,Fogg  Watch,Chain,Glass,Trimmer,Headset         other things.  
 
 India status: 
 OrderWise:
