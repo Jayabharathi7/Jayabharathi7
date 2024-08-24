@@ -92,6 +92,8 @@ Apple                                   Sony                Panasonic           
 Silicon labs
 
 Top IT Companies:
+There 2 types of companies, 1.Product Based. 2.Service Based.
+Product based make their own products. Sevice based do services to the product based companies.	
 Apple     - USA         Adobe    - USA        Cognizant - USA         Deloitte - USA      Mphasis  - India      Honeywell          - USA
 Google    - USA         HP       - USA        Capgemini - France      Facebook - USA      LG Soft  - Korea      Schneider electric - France
 Oracle    - USA         Amazon   - USA        SAP       - Germany     Intel    - USA      Mindtree - India 
@@ -152,14 +154,28 @@ Elon Musk                   Mark Zuckerberg
 Jeff Bezos                  Bill Gates
 Bernard Arnualt & Family
 
+Top Jobs in IT:
+Data Scientist              IoT Solutions Architect    Web Developer        Database Management System(DBMS)   Core:
+DevOps Engineer             Cloud Architect            Cyber Security       System Architect                   Embedded Systems    Electrical Design
+Big Data Engineer           Blockchain Developer       Computer Programmer                                     VLSI                Electronics Engineer 
+Machine Learning Engineer   Full Stack Developer       Internet of Things                                      Hardware Engineer
+Artificial Intelligence     AR/VR Developer            Software Engineer                                       R&D Engineer
 
+Top Engineering Courses:
+Computer Science Engineering       Electrical and Electronics Engineer
+Artificial Intelligence,Machine    (Aeronautical Engineer)
+Learning and Data Science          Electronics and Communication Engineer
+(Mechanical Engineer)              (Chemical Engineer)
+(Civil Engineer)                   (Agricultural Engineer)
+(Bio-Chemical Engineer)            (Biotechnology Engineer)
+Information Technology
 
-
-
-
-
-
-
+IT Cities in India:    IT Cities in World:              Best Cities to Live:
+Bangalore              Singapore  Shangai    Seattle    Vienna       Geneva     Adelaide   Brisbane
+Hyderabad              New York   Tokyo                 Copenhagen   Sydney     Toronto    Frankfurt
+Chennai                Tel Aviv   Bangalore             Zurich       Vancouver  Helsinki   Luxembourg
+Pune                   Beijing    Hong Kong             Melbourne    Osaka      Tokyo      Amsterdam
+Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington
 	
 	
 
