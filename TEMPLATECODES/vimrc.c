@@ -157,18 +157,25 @@ Axe,Lynx,Fogg  Watch,Chain,Glass,Trimmer,Headset         other things.
 
 India status: 
 OrderWise:
-HDI Ranking:         Literacy Rate:        Best cities to live:               Best Traditions,Festivals,Lifestyles:
-Kerala               Kerala	             Bangalore         Hyderabad        Rajasthan            Bihar
-Goa	               Delhi                 Chennai           Mumbai           Punjab               Uttarakhand
-Chandigarh	         Uttarakhand           Ahmedabad         Kolkata          Gujaraj              Orissa
-Delhi	               Himachal Pradesh      Chennai           Delhi            Tamil Nadu           Kerala
-Puducherry	         Assam                 Surat                              West Bengal          Madhya Pradesh
-Lakshadweep	         Maharashtra           Navi Mumbai                        Maharastra
-Himachal Pradesh     Punjab                Coimbatore                         Karnataka
-Sikkim               Tamil Nadu            Vadodara                           Uttar Pradesh
-Jammu and Kashmir    Gujarat               Indore                             Himachal Pradesh
-Punjab               West Bengal           Greater Mumbai                     Haryana
-   
+HDI Ranking:         Literacy Rate:        Best cities to live:               Best Traditions,Festivals,Lifestyles:    TamilNadu HDI:     Literacy Rate:
+Kerala               Kerala	             Bangalore         Hyderabad        Rajasthan            Bihar               Kanyakumari        Kanyakumari
+Goa	               Delhi                 Chennai           Mumbai           Punjab               Uttarakhand         Virudhunagar       Chennai
+Chandigarh	         Uttarakhand           Ahmedabad         Kolkata          Gujaraj              Orissa              Thoothukudi        Thoothukudi
+Delhi	               Himachal Pradesh      Chennai           Delhi            Tamil Nadu           Kerala              Chennai            The Nilgiris
+Puducherry	         Assam                 Surat                              West Bengal          Madhya Pradesh      Kanchipuram        Kanchipuram
+Lakshadweep	         Maharashtra           Navi Mumbai                        Maharastra                               Coimbatore         Tiruvallur
+Himachal Pradesh     Punjab                Coimbatore                         Karnataka                                Tirunelveli        Coimbatore
+Sikkim               Tamil Nadu            Vadodara                           Uttar Pradesh                            Thiruvallur        Nagapattinam
+Jammu and Kashmir    Gujarat               Indore                             Himachal Pradesh                         Krishnagiri        Madurai
+Punjab               West Bengal           Greater Mumbai                     Haryana                                  Trichy             Tiruchirapalli
+
+Cultural Districts:
+Madurai       Chennai
+Kanchipuram   Trichy
+Thanjavur     Kanyakumari
+Chidambaram   Rameshwaram
+Srirangam     Mahabalipuram
+
 Cummunications:
 Try all the things:    MOVAFFK
 Compared to MOVAFFK, Half way watching is better,but don't cross the limit(Less time and less show). Because having high energy,good feel,
