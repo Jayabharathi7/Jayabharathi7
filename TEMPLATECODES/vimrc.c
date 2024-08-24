@@ -181,6 +181,7 @@ Try all the things:    MOVAFFK
 Compared to MOVAFFK, Half way watching is better,but don't cross the limit(Less time and less show). Because having high energy,good feel,
 long time and have no problems.   
 Don't use more than one drop, and use only if you have completely.
+1.No age difference.  2.No beauty.  3.No Background.   
 
 Keep in Mind:
 Change depend upon places(Lifestyle,respect,growth....). In there try to become best and change the environment.
