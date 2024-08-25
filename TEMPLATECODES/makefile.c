@@ -176,8 +176,10 @@ Hyderabad              New York   Tokyo                 Copenhagen   Sydney     
 Chennai                Tel Aviv   Bangalore             Zurich       Vancouver  Helsinki   Luxembourg      Germany           Australia
 Pune                   Beijing    Hong Kong             Melbourne    Osaka      Tokyo      Amsterdam       Canada            Sweden 
 Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington      France            Denmark
-	
-	
+
+Life Cycle and Habits:
+America and Canada - Mostly shows wrong things of life to live.
+UK and Europe      - Mostly shows good things of life to live.	
 
 
 
