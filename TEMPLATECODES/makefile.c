@@ -170,12 +170,12 @@ Learning and Data Science          Electronics and Communication Engineer
 (Bio-Chemical Engineer)            (Biotechnology Engineer)
 Information Technology
 
-IT Cities in India:    IT Cities in World:              Best Cities to Live:
-Bangalore              Singapore  Shangai    Seattle    Vienna       Geneva     Adelaide   Brisbane
-Hyderabad              New York   Tokyo                 Copenhagen   Sydney     Toronto    Frankfurt
-Chennai                Tel Aviv   Bangalore             Zurich       Vancouver  Helsinki   Luxembourg
-Pune                   Beijing    Hong Kong             Melbourne    Osaka      Tokyo      Amsterdam
-Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington
+IT Cities in India:    IT Cities in World:              Best Cities to Live:                               Countries with Best Education:
+Bangalore              Singapore  Shangai    Seattle    Vienna       Geneva     Adelaide   Brisbane        United States     Japan
+Hyderabad              New York   Tokyo                 Copenhagen   Sydney     Toronto    Frankfurt       United Kingdom    Switzerland
+Chennai                Tel Aviv   Bangalore             Zurich       Vancouver  Helsinki   Luxembourg      Germany           Australia
+Pune                   Beijing    Hong Kong             Melbourne    Osaka      Tokyo      Amsterdam       Canada            Sweden 
+Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington      France            Denmark
 	
 	
 
