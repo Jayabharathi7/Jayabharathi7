@@ -178,7 +178,7 @@ Pune                   Beijing    Hong Kong             Melbourne    Osaka      
 Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington      France            Denmark
 
 Life Cycle and Habits:
-America and Canada - Mostly shows wrong things of life to live.    Bangalore - It also shows the best life cycle and how ti live. 
+America and Canada - Mostly shows wrong things of life to live.    Bangalore - It also shows the best life cycle and how to live. 
 UK and Europe      - Mostly shows good things of life to live.	
 
 
