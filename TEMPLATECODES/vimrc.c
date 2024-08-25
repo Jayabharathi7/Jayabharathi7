@@ -122,6 +122,13 @@ Drinking even a small amount of methanol or rubbing alcohol can be fatal.
 
 Ethanol     - Ethanol (or ethyl alcohol) is the type of alcohol,people drinks.
 
+Most Pub Countries:
+United Kingdom    Czechia       Luxembourg    Brazil
+Japan             Ireland       Uganda        Singapore
+Germany           Netherlands   Iceland       Israel
+Spain             Thailand      China         Serbia
+United States     Argentina     Australia
+
 Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)
 Beer         Mead          Gin       Rum         Absinthe     Schnapps
 Wine         Sake          Brandy    Tequila     Everclear                    
@@ -180,7 +187,7 @@ Cummunications:
 Try all the things:    MOVAFFK
 Compared to MOVAFFK, Half way watching is better,but don't cross the limit(Less time and less show). Because having high energy,good feel,
 long time and have no problems.   
-Don't use more than one drop, and use only if you have completely.
+Don't use more than one drop per day, and use only if you have.
 1.No age difference.  2.No beauty.  3.No Background.   
 
 Keep in Mind:
