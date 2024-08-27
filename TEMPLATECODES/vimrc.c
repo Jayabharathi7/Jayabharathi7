@@ -129,10 +129,10 @@ Germany           Netherlands   Iceland       Israel
 Spain             Thailand      China         Serbia
 United States     Argentina     Australia
 
-Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)
-Beer         Mead          Gin       Rum         Absinthe     Schnapps
-Wine         Sake          Brandy    Tequila     Everclear                    
-Hard Cider                 Whiskey   Vodka       Liqueurs             
+Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)           Best Beer:                              Best Wine:
+Beer         Mead          Gin       Rum         Absinthe     Schnapps      Carlsberg   Heineken       Hoegaarden   Cabernet    Sauvignon blanc  Pinot Grigio
+Wine         Sake          Brandy    Tequila     Everclear                  Kingfisher  Tuborg         Bira         Pinot Noir  Chardonnay       Malbec
+Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
                                              
 Healthy Foods:
 Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Homemade Low-Carb and    Cheese
@@ -193,6 +193,8 @@ Don't use more than one drop per day, and use only if you have.
 Keep in Mind:
 Change depend upon places(Lifestyle,respect,growth....). In there try to become best and change the environment.
 
+Alarm:
+Alarm setting sleep is Fiction. Sleep based upon your feel and mind, but 7-8 hours per day.
 Note:
 Repeat the updates everytime.
 
