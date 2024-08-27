@@ -129,7 +129,7 @@ Germany           Netherlands   Iceland       Israel
 Spain             Thailand      China         Serbia
 United States     Argentina     Australia
 
-Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)           Best Beer:                              Best Wine:
+Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)           Best Beers:                             Best Wines:
 Beer         Mead          Gin       Rum         Absinthe     Schnapps      Carlsberg   Heineken       Hoegaarden   Cabernet    Sauvignon blanc  Pinot Grigio
 Wine         Sake          Brandy    Tequila     Everclear                  Kingfisher  Tuborg         Bira         Pinot Noir  Chardonnay       Malbec
 Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
