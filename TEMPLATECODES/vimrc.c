@@ -195,6 +195,7 @@ Change depend upon places(Lifestyle,respect,growth....). In there try to become 
 
 Alarm:
 Alarm setting sleep is Fiction. Sleep based upon your feel and mind, but 7-8 hours per day.
+
 Note:
 Repeat the updates everytime.
 
