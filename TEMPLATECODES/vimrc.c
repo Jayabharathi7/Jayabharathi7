@@ -154,8 +154,8 @@ Bivalves such as Oysters and Clams        Raisin        Complan,Horlicks     Kef
 Crustaceans such as Lobster and Shrimp    Badam Mix     Pickles              Liver
 Proteins for Fitness                      Cashew Nuts   Rusk                 Tempeh
 Energy Mixes with Milk                    Lemons        Wheat Germ           Watercress
-Biscuits - Unibic, Nutrichoice,           Watermelon    Blackcurrants
-Farmlite Digestive.                       Pistachio     Brussels Sprouts
+Biscuits - Unibic, Nutrichoice,           Watermelon    Blackcurrants        Honey
+Farmlite Digestive.                       Pistachio     Brussels Sprouts     Ghee
 
 Household Items:
 Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhaler
