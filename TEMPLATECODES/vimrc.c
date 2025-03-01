@@ -90,7 +90,7 @@ Canada singers - Male
                                  
                                  
 Additional songs - Despacito                 Shakira's Waka Waka          Jennifer lopez's-On the floor       Jung kook(BTS)-Dreamers
-                   My heart will go on       Clean bandit's-Rockabye      Sia-Unstoppable  
+                   My heart will go on       Clean bandit's-Rockabye      Sia-Unstoppable                     I wanna be yours
                    
 
 Life cycle:   
