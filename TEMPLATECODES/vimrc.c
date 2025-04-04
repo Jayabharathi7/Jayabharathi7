@@ -159,8 +159,11 @@ Farmlite Digestive.                       Pistachio     Brussels Sprouts     Ghe
 
 Household Items:
 Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhaler
-Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes and
-Axe,Lynx,Fogg  Watch,Chain,Glass,Trimmer,Headset         other things.  
+Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes
+Watch,Chain,Glass,Trimmer,Headset           
+Best spray - Fogg(Marco), Axe(Dark Tempation)
+Attractive spray - Vanilla, Jasmine, Rose, Sandalwood, Lavender
+Perfume(scent) and body spray(deodorant) is different. But perfume has the best.
 
 India status: 
 OrderWise:
