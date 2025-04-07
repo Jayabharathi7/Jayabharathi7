@@ -162,7 +162,7 @@ Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhal
 Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes
 Watch,Chain,Glass,Trimmer,Headset           
 Best smell - Fogg(Marco), Axe(Dark Tempation)
-Attractive smell - Vanilla, Jasmine, Musk, Amber, Rose, Sandalwood, Lavender
+Attractive smell - Vanilla, Jasmine, Chocolate, Musk, Amber, Rose, Sandalwood, Lavender
 Perfume and body spray is different. But perfume has the best.
 
 Best perfume brands:
