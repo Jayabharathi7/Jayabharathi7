@@ -165,6 +165,10 @@ Best smell - Fogg(Marco), Axe(Dark Tempation)
 Attractive smell - Vanilla, Jasmine, Musk, Amber, Rose, Sandalwood, Lavender
 Perfume and body spray is different. But perfume has the best.
 
+Best perfume brands:
+1.Axe  2.Fogg  3.Park Avanue  4.Engage  5.Yardley
+Choose the best flavoured(smelled) perfumes in every brands accordingly.
+   
 India status: 
 OrderWise:
 HDI Ranking:         Literacy Rate:        Best cities to live:               Best Traditions,Festivals,Lifestyles:    TamilNadu HDI:     Literacy Rate:
