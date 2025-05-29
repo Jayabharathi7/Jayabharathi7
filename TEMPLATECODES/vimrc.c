@@ -98,7 +98,7 @@ Life cycle:
     2.Sleeping                                           4.Home or gym workouts
 
 Fashion:
-    1.Cloth      2.Colour      3.Size      4.Design      5.Extra wearable things
+    1.Cloth  2.Colour  3.Design  4.Size  5.Fitting  6.Extra wearable things
         
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
