@@ -99,7 +99,33 @@ Life cycle:
 
 Fashion:
     1.Cloth  2.Colour  3.Design  4.Size  5.Fitting  6.Extra wearable things
-        
+
+    T-Shirts: Mostly prefer polo kind. Others should be less or optional.
+    Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   4.Soft Berry Pink.   5.Navy Blue   6.Black.
+    Optional colour - Red,Green,Grey,Brown, etc....
+    In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
+    and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
+    size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
+    Polyster cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
+
+    Lower: Cotton lower and plain.
+    Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
+    Only buy above mentioned colors, it suits all tshirts. Don't buy other colors.
+ 
+    Formal Shirts: Always buy branded shirts.   
+    Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
+    Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy.
+
+    Pants: Always the cloth is high quality.
+    Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
+    Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
+    color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy above high or low. Always check with previously used one. Fitting 
+    also impotant and need to have V shaped.
+
+    All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
+    body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
+    filled.
+   
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
 Football:
