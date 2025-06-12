@@ -117,7 +117,7 @@ Fashion:
     Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy.
 
     Pants: Always the cloth is high quality.
-    Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
+    Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy above high or low. Always check with previously used one. Fitting 
     also impotant and need to have V shaped.
