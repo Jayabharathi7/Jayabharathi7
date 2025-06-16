@@ -107,6 +107,11 @@ Fashion:
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
     Polyster cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
+    T shirt should be without packet and two button type be good. Collor with half hand be good. The sleeve length should be short and not long and check with 
+    previous in hand. Sleeve open(Cuff) be important and need to have without gap, and armhole also impotant, check both with previous one in hand.
+    Try to buy long body length and at the same time the sleeve length also important, body length should be adjustable but the sleeve(armhole,cuff,length) size
+    should not be adjustable and give important ot it. T shirt length and width be adjustable but not in higher level(only little much), but the
+    sleeve(armhole,cuff,length) size should not be adjustable. Always wear and check before buy. Chest size need to have perfect fitting.
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
