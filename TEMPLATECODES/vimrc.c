@@ -110,12 +110,13 @@ Fashion:
     T shirt should be without packet and two button type be good. Collor with half hand be good. The sleeve length should be short and not long and check with 
     previous in hand. Sleeve open(Cuff) be important and need to have without gap, and armhole also impotant, check both with previous one in hand.
     Try to buy long body length and at the same time the sleeve length also important, body length should be adjustable but the sleeve(armhole,cuff,length) size
-    should not be adjustable and give important ot it. T shirt length and width be adjustable but not in higher level(only little much), but the
+    should not be adjustable and give important to it. T shirt length and width be adjustable but not in higher level(only little much), but the
     sleeve(armhole,cuff,length) size should not be adjustable. Always wear and check before buy. Chest size need to have perfect fitting.
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
-    Only buy above mentioned colors, it suits all tshirts. Don't buy other colors.
+    Only buy above mentioned colors, it suits all tshirts. Don't buy other colors. The length should not be long or short and need to have perfect length. 
+    Check with previously used one.
  
     Formal Shirts: Always buy branded shirts.   
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
