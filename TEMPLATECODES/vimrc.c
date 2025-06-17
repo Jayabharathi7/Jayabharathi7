@@ -106,31 +106,41 @@ Fashion:
     In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
-    Polyster cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
+    Polyester cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
     T shirt should be without packet and two button type be good. Collor with half hand be good. The sleeve length should be short and not long and check with 
     previous in hand. Sleeve open(Cuff) be important and need to have without gap when wear, and armhole size also important, check both with previous one in hand.
     Try to buy long body length and at the same time the sleeve length also important, body length should be adjustable but the sleeve(armhole,cuff,length) size
     should not be adjustable and give important to it. T shirt length and width be adjustable but not in higher level(only little much), but the
     sleeve(armhole,cuff,length) size should not be adjustable. Always wear and check before buy. Chest size need to have perfect fitting.
+    Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
+    and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
     Only buy above mentioned colors, it suits all tshirts. Don't buy other colors. The length should not be long or short and need to have perfect length. 
-    Check with previously used one.
+    Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers. Lowers need to have V shaped.
+    Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
+    lot of cotton clothes, try best cloth.
  
     Formal Shirts: Always buy branded shirts.   
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
-    Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy.
+    Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy. Shirts need to have single packet with full
+    Sleeve. Check the length and width with previously used one.
+    Cloth types - Cotton, Lenin, Polyester, Flannel, Denim, etc...   There is lot of clothes in shirts, so check before buy. Mostly don't buy Denim, Lenin,
+    etc...   Buy Cotton, flannel with high qualities. Polyester with plain shirt is fine, but not in Checked. Cotton plain also fine. For Checked buy high 
+    qualities or check and buy with previously used one. For plain shirts also check with previously used cloth. 
 
     Pants: Always the cloth is high quality.
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy long or short and need to have perfect length. Always check with 
-    previously used one. Fitting also impotant and need to have V shaped.
+    previously used one. Fitting also impotant and need to have V shaped. Packet type, check and buy with previously used one. 
+    Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
+    cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
 
     All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
     body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
-    filled.
+    filled. Buy everythings with Ready-made and don't get tailor-stitched kind(Buying clothes and stitching).
    
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
