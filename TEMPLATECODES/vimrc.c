@@ -122,7 +122,7 @@ Fashion:
     Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
     lot of cotton clothes, try best cloth.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
-    Other fittings should not be good. Regular fit should be good compared to Slim fit.
+    Other fittings should not be good. Regular fit should be good compared to Slim fit.  Pant fit should be very important and it should be base look for pant.
  
     Formal Shirts: Always buy branded shirts.   
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
@@ -140,7 +140,7 @@ Fashion:
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
-    Other fittings should not be good. Regular fit should be good compared to Slim fit.
+    Other fittings should not be good. Regular fit should be good compared to Slim fit. Pant fit should be very important and it should be base look for pant.
 
     All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
     body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
