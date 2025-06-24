@@ -142,6 +142,12 @@ Fashion:
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
     Other fittings should not be good. Regular fit should be good compared to Slim fit. Pant fit should be very important and it should be base look for pant.
 
+    Vest and Underwear:
+    Vest - Always have white colour. Example - If you have 2 vest, 1 vest need to be in white colour. Size - 90. Cloth and design Check and buy with previously
+    used one. Square neck vest type should be good.
+    Underwear - Types - Briefs, Boxer briefs, Thong, Trunks, Boxers, Jockstrap. Always buy Briefs type, it should be relaxed and fit should be free. Always buy 
+    dark colours for underwear. Size - 90. Cloth and design Check and buy with previously used one.
+ 
     All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
     body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
     filled. Buy everythings with Ready-made and don't get tailor-stitched kind(Buying clothes and stitching).
