@@ -118,9 +118,11 @@ Fashion:
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
     Only buy above mentioned colors, it suits all tshirts. Don't buy other colors. The length should not be long or short and need to have perfect length. 
-    Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers. Lowers need to have V shaped.
+    Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers.
     Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
     lot of cotton clothes, try best cloth.
+    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
+    Other fittings should not be good. Regular fit should be good compared to Slim fit.
  
     Formal Shirts: Always buy branded shirts.   
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
@@ -134,9 +136,11 @@ Fashion:
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy long or short and need to have perfect length. Always check with 
-    previously used one. Fitting also impotant and need to have V shaped. Packet type, check and buy with previously used one. 
+    previously used one. Fitting also impotant. Packet type, check and buy with previously used one. 
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
+    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
+    Other fittings should not be good. Regular fit should be good compared to Slim fit.
 
     All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
     body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
