@@ -153,7 +153,7 @@ Fashion:
     All the dresses before buy, always check the size,color,cloth,design and fittings with the previously used one. Only change the size accordingly if your
     body shape change or don't. If any one of those above mentioned is not matching in required form, don't buy or move to other shop or buy later once stack get
     filled. Buy everythings with Ready-made and don't get tailor-stitched kind(Buying clothes and stitching).
-    All the hem, cuff and other parts need to be in same size.
+    All the hem, cuff and other parts need to be in same size. Always wear and check the dress is perfect or not, then buy it.
    
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
