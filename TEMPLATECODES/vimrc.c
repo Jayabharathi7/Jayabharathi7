@@ -123,7 +123,8 @@ Fashion:
     lot of cotton clothes, try best cloth.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
     Other fittings should not be good. Regular fit should be good compared to Slim fit.  Pant fit should be very important and it should be base look for pant.
-    Both the leg opening(cuff) need to be same size.
+    Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one and buy. Check
+    the packet place, design, size with previously used one and buy.
  
     Formal Shirts: Always buy branded shirts.   
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
@@ -142,7 +143,7 @@ Fashion:
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
     Other fittings should not be good. Regular fit should be good compared to Slim fit. Pant fit should be very important and it should be base look for pant.
-    Both the leg opening(cuff) need to be same size.
+    Both the leg opening(cuff) need to be same size. Check the packet place, design, size with previously used one and buy.
 
     Vest and Underwear:
     Vest - Always have white colour. Example - If you have 2 vest, 1 vest need to be in white colour. Size - 90. Cloth and design Check and buy with previously
