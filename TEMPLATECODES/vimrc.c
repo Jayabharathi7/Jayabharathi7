@@ -113,7 +113,8 @@ Fashion:
     should not be adjustable and give important to it. T shirt length and width be adjustable but not in higher level(only little much), but the
     sleeve(armhole,cuff,length) size should not be adjustable. Always wear and check before buy. Chest size need to have perfect fitting.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
-    and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
+    and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. Sleeve open(Cuff) should
+    not be too tight and need to have perfect fit without gap.
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
