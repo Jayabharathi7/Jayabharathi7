@@ -263,6 +263,19 @@ Change depend upon places(Lifestyle,respect,growth....). In there try to become 
 Alarm:
 Alarm setting sleep is Fiction. Sleep based upon your feel and mind, but 7-8 hours per day.
 
+Basic Essential Foods:
+It is cheap and best. It should be more enough.
+3 Times Food : 1.Idly or Dosa or Sapathi.  2.Meals with vegetables or Biryani(optional).  3.Idly or Dosa or Sapathi(mostly preferable).
+1.Friuts 2.Milk 3.Eggs
+Additional:
+1.Wheat Bread 2.Dry Fruits
+Optional:
+1.Soup or Blood Fries 2.Energy drinks in shops fridge 3.Dates 4.Peanut candy
+May be other things be added above in future.
+
+Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.Minerals 6.Water 7.Fibre
+Atlast search everything is present in your food intake. Mostly avoid sugar related foods.
+
 Note:
 Repeat the updates everytime.
 
