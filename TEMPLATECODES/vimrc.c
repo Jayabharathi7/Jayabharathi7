@@ -285,6 +285,9 @@ Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.M
 Atlast search everything is present in your food intake. Mostly avoid sugar related foods.
 Macronutrients - Carbohydrates, Protein, Fats. This need to be take in larger amount. Micronutrients - Vitamins, Minerals. This need to be take in smaller amount.
 
+Nutrient-Dense Foods: 1.Fruits and Vegetables - Leafy Greens, Berries, Cruciferous vegetables, Citrus fruits.   2.Grains, Legumes,Nuts and Seeds - Whole Grain,
+Legumes and Nuts and Seeds.  3.Other Nutrient-Rich Foods - Fish, Eggs, Yogurt.
+
 Note:
 Repeat the updates everytime.
 
