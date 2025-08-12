@@ -275,7 +275,7 @@ Grapefruit, Pineapple, Tomatoes.
 Essential Vegetables - 1.Spinach 2.Kale 3.Broccoli 4.Carrots 5.Sweet Potatoes 6.Beets 7.Peas 8.Fermented vegetables 9.Tomatoes 10.Bell peppers 11.Mushrooms
 12.Red cabbage 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
 
-Carbohydrates - Rice, Protein - Guava, Fat - Egg, Minerals - Banana, Vitamins - Orange.
+Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
 
 Optional: Consume in Moderation
 1.Soup or Blood Fries   2.Chicken 65   3.Energy drinks in shop fridge   4.Dates   5.Peanut candy   6.Palkova
