@@ -268,15 +268,20 @@ Alarm setting sleep is Fiction. Sleep based upon your feel and mind, but 7-8 hou
 Basic Essential Foods:
 It is cheap and best. It should be more enough.
 3 Times Food : 1.Idly or Dosa or Sapathi.  2.Meals with vegetables or Biryani(optional) or Fried Rice(optional).  3.Idly or Dosa or Sapathi(mostly preferable).
-1.Friuts 2.Milk 3.Eggs
-Additional:
-1.Wheat Bread 2.Dry Fruits
-Optional:
-1.Soup or Blood Fries 2.Energy drinks in shops fridge 3.Dates 4.Peanut candy 5.Chicken 65
+1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits
+Essential Fruits - Banana, Guava, Orange.  Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries, Avocado, Mango,
+Grapefruit, Pineapple, Tomatoes.
+
+Essential Vegetables - 1.Spinach 2.Kale 3.Broccoli 4.Carrots 5.Sweet Potatoes 6.Beets 7.Peas 8.Fermented vegetables 9.Tomatoes 10.Bell peppers 11.Mushrooms
+12.Red cabbage 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
+
+Optional: Consume in Moderation
+1.Soup or Blood Fries   2.Chicken 65   3.Energy drinks in shop fridge   4.Dates   5.Peanut candy   6.Palkova
 May be other things be added above in future.
 
 Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.Minerals 6.Water 7.Fibre
 Atlast search everything is present in your food intake. Mostly avoid sugar related foods.
+Macronutrients - Carbohydrates, Protein, Fats. This need to be take in larger amount. Micronutrients - Vitamins, Minerals. This need to be take in smaller amount.
 
 Note:
 Repeat the updates everytime.
