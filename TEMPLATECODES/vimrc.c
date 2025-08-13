@@ -50,7 +50,7 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 /*
 Information
-Updates upto 2024
+Updates upto 2025
 
 Accounts:
 For PDF Documents:
