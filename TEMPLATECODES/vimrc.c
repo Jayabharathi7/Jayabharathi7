@@ -194,27 +194,27 @@ Wine         Sake          Brandy    Tequila     Everclear                  King
 Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
                                              
 Healthy Foods:
-Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Homemade Low-Carb and    Cheese
-Avocados          Lean beef         Macadamia Nuts    Carrots       Tomatoes   Tuna           Gluten-free Breads       Dairy Milk
+Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Whole Wheat Bread        Cheese
+Avocados          Lean beef         Macadamia Nuts    Carrots       Tomatoes   Tuna           Potatoes                 Dairy Milk
 Bananas           Chicken Breasts   Brazil Nuts       Cauliflower   Salmon     Brown Rice     Green Beans              Yogurt
 Blueberries       Lamb and Mutton   Walnuts           Cucumber      Sardines   Oats           Kidney Beans             Extra-Virgin Olive Oil
 Oranges           Almonds           Asparagus         Garlic        Shellfish  Quinoa         Lentils                  Coconut Oil
-Strawberries      Chia Seeds        Bell Peppers      Kale          Shrimp     Ezekiel Bread  Peanuts                  Potatoes
+Strawberries      Chia Seeds        Bell Peppers      Kale          Shrimp     Ezekiel Bread  Peanuts                 
 
-Sweet Potatoes           Grains            Sports Drinks and Energy Beverages    Some Vegetable Oils                Kiwi          Chard 
-Apple Cider Vinegar      Savory Snacks     Granola and Granola Bars              Premade Smoothies                  Barley        Bulgur
-Dark chocolate           Sweet Desserts    Gluten-free Snack Foods               Diet Soda                          Dates         Whole-grain Pasta
-Sauce Condiment          Fats and Oils     Some Low Fat and Fat-free Products    Some Plant-based Meat Products     Pumpkin       Black Beans
-Mixed Dishes             Meats             Breakfast Cereal                      Mushrooms                          Pomagranates  Spinach
-Beverages                Water             Soy                                   Edamame                            Nut Butter    Turmeric
+Sweet Potatoes           Grains            Some Vegetable Oils                   Kiwi                    Black Beans
+Apple Cider Vinegar      Spinach           Barley                                Bulgur                  Pomegranates
+Dark chocolate           Dates             Chard                                 Whole-grain Pasta
+Peas                     Nut Butter        Some Plant-based Meat Products        Pumpkin                   
+Mixed Dishes             Meats             Breakfast Cereal                      Mushrooms                  
+Turmeric                 Water             Soy                                   Edamame                                
 
-Dark Green Leafy Vegetables               Cinnamon      Black Berries        Gouda
-Bivalves such as Oysters and Clams        Raisin        Complan,Horlicks     Kefir
-Crustaceans such as Lobster and Shrimp    Badam Mix     Pickles              Liver
-Proteins for Fitness                      Cashew Nuts   Rusk                 Tempeh
-Energy Mixes with Milk                    Lemons        Wheat Germ           Watercress
-Biscuits - Unibic, Nutrichoice,           Watermelon    Blackcurrants        Honey
-Farmlite Digestive.                       Pistachio     Brussels Sprouts     Ghee
+Dark Green Leafy Vegetables               Cinnamon      Berries              
+Bivalves such as Oysters and Clams        Dry Fruits    Complan,Horlicks    
+Crustaceans such as Lobster and Shrimp    Badam Mix     Watercress
+Cashew Nuts                               Ghee          Brussels Sprouts              
+Lemons                                    Wheat Germ    Groundnut          
+Biscuits - Unibic, Nutrichoice,           Watermelon            
+Farmlite Digestive.                       Green Tea          
 
 Household Items:
 Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhaler
