@@ -270,6 +270,7 @@ It is cheap and best. It should be more enough.
 3 Times Food : Breakfast: Idly or Dosa or Sapathi or Idiyappam(Sometimes)  Lunch: Veg Meals with vegetables or Non-Veg Meals or Biryani(optional) or 
 Fried Rice(optional).  Dinner: Idly or Dosa or Sapathi(mostly preferable) or Idiyappam(Sometimes)
 1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits
+Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best medicine.
 
 Essential Fruits - Banana, Guava, Orange, Amla   Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries, Avocado, Mango,
 Grapefruit, Pineapple, Tomatoes.
@@ -279,7 +280,7 @@ Essential Vegetables - 1.Spinach 2.Kale 3.Broccoli 4.Carrots 5.Sweet Potatoes 6.
 Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
 
 Optional: Consume in Moderation
-1.Soup or Blood Fries   2.Chicken 65   3.Energy drinks in shop fridge   4.Dates   5.Peanut candy   6.Palkova   7.Chickpeas   8.Healthy Snacks  
+1.Chicken 65   2.Energy drinks in shop fridge   3.Dates   4.Peanut candy   5.Palkova   6.Chickpeas   7.Healthy Snacks  
 May be other things be added above in future.
 
 Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.Minerals 6.Water 7.Fibre
