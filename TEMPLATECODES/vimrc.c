@@ -269,18 +269,18 @@ Basic Essential Foods:
 It is cheap and best. It should be more enough.
 3 Times Food : Breakfast: Idly or Dosa or Sapathi or Idiyappam(Sometimes)  Lunch: Veg Meals with vegetables or Non-Veg Meals or Biryani(optional) or 
 Fried Rice(optional).  Dinner: Idly or Dosa or Sapathi(mostly preferable) or Idiyappam(Sometimes)
-1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits
-Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best medicine.
+1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits           1.Lemon Tea  2.Green Tea
+Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best medicine. Every thing eat only when made with hygiene.
 
-Essential Fruits - Banana, Guava, Orange, Amla   Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries, Avocado, Mango,
-Grapefruit, Pineapple, Tomatoes.
+Essential Fruits - Banana, Guava, Orange or Mosambi, Amla   Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries,
+Avocado, Mango, Grapefruit, Pineapple, Tomatoes.
 Essential Vegetables - 1.Spinach 2.Kale 3.Broccoli 4.Carrots 5.Sweet Potatoes 6.Beets 7.Peas 8.Fermented vegetables 9.Tomatoes 10.Bell peppers 11.Mushrooms
 12.Red cabbage 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
 
 Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
 
 Optional: Consume in Moderation
-1.Chicken 65   2.Energy drinks in shop fridge   3.Dates   4.Peanut candy   5.Palkova   6.Chickpeas   7.Healthy Snacks  
+1.Chicken 65  2.Energy drinks in shop fridge  3.Dates  4.Peanut candy  5.Palkova  6.Chickpeas  7.Soup or blood fry(only hygiene)  8.Healthy Snacks  
 May be other things be added above in future.
 
 Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.Minerals 6.Water 7.Fibre
