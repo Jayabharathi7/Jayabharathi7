@@ -48,6 +48,7 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 
 
+ROYAL MENS WEAR(ROLE MODEL FOR WHOLE LIFE)   
 /*
 Information
 Updates upto 2025
