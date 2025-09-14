@@ -193,6 +193,8 @@ Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)           Best
 Beer         Mead          Gin       Rum         Absinthe     Schnapps      Carlsberg   Heineken       Hoegaarden   Cabernet    Sauvignon Blanc  Pinot Grigio
 Wine         Sake          Brandy    Tequila     Everclear                  Kingfisher  Tuborg         Bira         Pinot Noir  Chardonnay       Malbec
 Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
+
+Don't drink in important place and time. It has some best time to consume and enjoy it.
                                              
 Healthy Foods:
 Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Whole Wheat Bread        Cheese
@@ -258,7 +260,9 @@ Try all the things:    MOVAFFK
 Compared to MOVAFFK, Half way watching is better,but don't cross the limit(Less time and less show). Because having high energy,good feel,
 long time and have no problems.   
 Don't use more than one drop per day, and use only if you have.
-1.No age difference.  2.No beauty.  3.No Background.   (90%- Its Your feel to freeze and relax. 10% - Only for sake and need)   
+1.No age difference.  2.No beauty.  3.No Background.   (90%- Its Your feel to freeze and relax. 10% - Only for sake and need)
+
+Communicating Perfectly: 1.Make the room best(Bed, pillow...)  2.Perfume  3.Cover for safe  4.Makeup  5.Dress  6.Ornaments(Chains...)   
 
 Keep in Mind:
 Change depend upon places(Lifestyle,respect,growth....). In there try to become best and change the environment.
