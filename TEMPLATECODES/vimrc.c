@@ -226,7 +226,7 @@ Watch,Chain,Glass,Trimmer,Headset
 
 Perfume:
 Best smell - Fogg(Marco), Axe(Dark Tempation)
-Attractive smell - Vanilla, Jasmine, Chocolate, Musk, Amber, Rose, Sandalwood, Lavender
+Attractive smells:   Primary - Vanilla, Jasmine, Chocolate, Musk   Secondary - Rose, Sandalwood, Lavender
 1.Perfume    - More Price. Long lasting fragrance.  
 2.Body Spray - Average Price. Lighter fragrance with a shorter lifespan.
 3.Deodorant  - Less Price. Prevent the smell of sweat.
@@ -262,7 +262,8 @@ long time and have no problems.
 Don't use more than one drop per day, and use only if you have.
 1.No age difference.  2.No beauty.  3.No Background.   (90%- Its Your feel to freeze and relax. 10% - Only for sake and need)
 
-Communicating Perfectly: 1.Make the room best(Bed, pillow...)  2.Perfume  3.Cover for safe  4.Makeup  5.Dress  6.Ornaments(Chains...)   
+Communicating Perfectly: 1.Make the room best(Bed, pillow, dim light or candle...)  2.Perfume  3.Cover for safety  4.Makeup  5.Dress  
+                         6.Ornaments(Neck Chain, Mid Chain...)   
 
 Keep in Mind:
 Change depend upon places(Lifestyle,respect,growth....). In there try to become best and change the environment.
@@ -294,6 +295,9 @@ Macronutrients - Carbohydrates, Protein, Fats. This need to be take in larger am
 
 Nutrient-Dense Foods: 1.Fruits and Vegetables - Leafy Greens, Berries, Cruciferous vegetables, Citrus fruits.   2.Grains, Legumes,Nuts and Seeds - Whole Grain,
 Legumes and Nuts and Seeds.  3.Other Nutrient-Rich Foods - Fish, Eggs, Yogurt.
+
+ELimination: To avoid public disturbances from people in temporary places, speak with phone call if call is not even active(just put the phone in ear and act like 
+             your are speaking with someone) and move away from the place. Its the best method to get avoid from distractions.
 
 Note:
 Repeat the updates everytime.
