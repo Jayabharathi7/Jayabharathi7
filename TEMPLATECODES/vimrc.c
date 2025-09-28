@@ -108,14 +108,10 @@ Fashion:
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
     Polyester cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
-    T shirt should be without packet and two button type be good. Collor with half hand be good. The sleeve length should be short and not long and check with 
-    previous in hand. Sleeve open(Cuff) be important and need to have without gap when wear, and armhole size also important, check both with previous one in hand.
-    Try to buy long body length and at the same time the sleeve length also important, body length should be adjustable but the sleeve(armhole,cuff,length) size
-    should not be adjustable and give important to it. T shirt length and width be adjustable but not in higher level(only little much), but the
-    sleeve(armhole,cuff,length) size should not be adjustable. Always wear and check before buy. Chest size need to have perfect fitting.
+    T shirt should be without packet and two button type be good. Collor with half hand be good. Cuff size should not be too loose or too tight, need to have 
+    perfect size, wear and check it. Try to buy long body length. Always wear and check before buy. Chest size need to have perfect fitting.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
-    and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. Sleeve open(Cuff) should
-    not be too tight and need to have perfect fit without gap.
+    and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
