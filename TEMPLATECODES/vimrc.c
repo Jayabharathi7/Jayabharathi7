@@ -102,7 +102,7 @@ Fashion:
     1.Cloth  2.Colour  3.Design  4.Size  5.Fitting  6.Extra wearable things
 
     T-Shirts: Mostly prefer polo kind. Others should be less or optional.
-    Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   5.Navy Blue   6.Black.
+    Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   4.Navy Blue   5.Black.
     Optional colour - Red,Green,Grey,Brown, etc....
     In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
