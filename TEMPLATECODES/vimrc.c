@@ -109,14 +109,18 @@ Fashion:
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
     Polyester cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
     T shirt should be without packet and two button type be good. Collor with half hand be good. Cuff size should not be too loose or too tight, need to have 
-    perfect size, wear and check it. Try to buy long body length. Always wear and check before buy. Chest size need to have perfect fitting.
+    perfect size, wear and check it. Try to buy long body length. Always wear and check before buy. Chest size need to have perfect fitting. Cuff be very important
+    part, always wear and check whether it is having perfect fit or not, only then buy, because some cuff should be bend or not proper fit. The length and breadth 
+    should be only little much adjustable(not more), when you buy compared with older one or try to buy same size, but don't buy other sizes.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
     Lower: Cotton lower and plain.
     Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
     Only buy above mentioned colors, it suits all tshirts. Don't buy other colors. The length should not be long or short and need to have perfect length. 
-    Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers.
+    Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers. Before buy always wear and check, because the size
+    you buy will change based upon many brands(Example: One brand L size suits, another brand XL size suits), in hip place, some look too tight or too loose. So
+    wear and check whether it is perfect fit or not. Only little much tight or loose be adjustable, but not more.
     Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
     lot of cotton clothes, try best cloth.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
@@ -124,7 +128,13 @@ Fashion:
     Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one and buy. Check
     the packet place, design, size with previously used one and buy.
  
-    Formal Shirts: Always buy branded shirts.   
+    Formal Shirts: Always buy branded shirts. In Branded cloth type, there are high and low quality branded shirts, only buy high quality branded shirts. Before
+    buy always check multiple times whether the shirt quality is good or not. In some shops, they sell worst fabric in the name of branded shirts, before buy
+    always check with previous clothes in hand and try to buy the same clothes again. Always try to buy same breadth and length with previously used shirt and
+    buy the same again, only little much size should be adjustable, but not more(Example: Buy L size shirt, if it not suits then try with M or XL, then also it not
+    suits, then don't buy. Move and go with another brand and try it). If nothing properly suits, don't buy until you get good shirt, wait for the time when the 
+    shirts are loaded more in the shops and then buy it. In shirts, color and design be very important, because it only give attractive look, So choose properly
+    before buy.
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
     Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy. Shirts need to have single packet with full
     Sleeve. Check the length and width with previously used one.
@@ -137,7 +147,9 @@ Fashion:
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy long or short and need to have perfect length. Always check with 
-    previously used one. Fitting also impotant. Packet type, check and buy with previously used one. 
+    previously used one. Fitting also impotant. Packet type, check and buy with previously used one. Before buy always wear and check, because the size
+    you buy will change based upon many brands(Example: One brand L size suits, another brand XL size suits), in hip place, some look too tight or too loose. So
+    wear and check whether it is perfect fit or not. Only little much tight or loose be adjustable, but not more.
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
