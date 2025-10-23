@@ -92,6 +92,7 @@ Canada singers - Male
                                  
 Additional songs - Despacito                 Shakira's Waka Waka          Jennifer lopez's-On the floor       Jung kook(BTS)-Dreamers
                    My heart will go on       Clean bandit's-Rockabye      Sia-Unstoppable                     I wanna be yours
+                   NCS Music                 Fearless pt.II               Jaymes Young's-Infinity
                    
 
 Life cycle:   
