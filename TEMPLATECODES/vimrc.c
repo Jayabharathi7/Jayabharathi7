@@ -168,7 +168,10 @@ Fashion:
     filled. Buy everythings with Ready-made and don't get tailor-stitched kind(Buying clothes and stitching).
     All the hem, cuff and other parts need to be in same size. Always wear and check the dress is perfect or not, then buy it. In every clothes both sides need to
     have same cloth, because in some clothes outside looks good and inside they gave with cheap or worst cloth. So check both sides and need to have same cloth. In
-    shirts, inside also need to have same cloth, color, design.
+    shirts, inside also need to have same cloth, color, design. Everything(Shirt,Pant,Tshirt,Lower) before buy, Check the size with previously used one and buy the
+    same sizes again, only little much size should be adjustable(Example: Already multiple shirts available with you, in that only little much size should be vary
+    and different, only that much sizes should adjustable to buy and wear. Don't buy other sizes compared to older one. Only little much breadth and length should
+    be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another).
 
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
