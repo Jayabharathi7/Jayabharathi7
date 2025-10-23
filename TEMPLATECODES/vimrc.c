@@ -111,8 +111,9 @@ Fashion:
     Polyester cloth with plain tshirt be good. Before buy refer all the things already the tshirt in previous use and continue the same again.
     T shirt should be without packet and two button type be good. Collor with half hand be good. Cuff size should not be too loose or too tight, need to have 
     perfect size, wear and check it. Try to buy long body length. Always wear and check before buy. Chest size need to have perfect fitting. Cuff be very important
-    part, always wear and check whether it is having perfect fit or not, only then buy, because some cuff should be bend or not proper fit. The length and breadth 
-    should be only little much adjustable(not more), when you buy compared with older one or try to buy same size, but don't buy other sizes.
+    part, always wear and check whether it is having perfect fit or not, only then buy, because some cuff should be bend or not proper fit, before buy wear and 
+    check the cuff with already used one and buy the same cuff size. The length and breadth should be only little much adjustable(not more), when you buy, compare 
+    with older one or try to buy same size, but don't buy other sizes.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
@@ -135,7 +136,10 @@ Fashion:
     buy the same again, only little much size should be adjustable, but not more(Example: Buy L size shirt, if it not suits then try with M or XL, then also it not
     suits, then don't buy. Move and go with another brand and try it). If nothing properly suits, don't buy until you get good shirt, wait for the time when the 
     shirts are loaded more in the shops and then buy it. In shirts, color and design be very important, because it only give attractive look, So choose properly
-    before buy.
+    before buy. Only little much Breadth and Length should be adjustable, but not more(Example: Check the shirts which is already present with you, there is only
+    little much size difference compared to one another. But not more size difference, Same thing when you buy new shirts, only need to have that much little 
+    differences in size, but not more differences in size. If you don't get proper fitted shirts in shops, just don't buy, only buy when new loaded shirts are
+    updated or move to some other shops to buy).
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
     Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy. Shirts need to have single packet with full
     Sleeve. Check the length and width with previously used one.
