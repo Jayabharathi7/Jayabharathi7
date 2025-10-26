@@ -126,10 +126,10 @@ Fashion:
     hip size with older one and then buy. Fitting also need to have perfect slim fit).
     Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
     lot of cotton clothes, try best cloth.
-    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
-    Other fittings should not be good. Regular fit should be good compared to Slim fit.  Pant fit should be very important and it should be base look for pant.
-    Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one and buy. Check
-    the packet place, design, size with previously used one and buy.
+    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose only Slim fit, Don't buy other 
+    fittings. Before buy check with previously used fitting and buy. Other fittings should not be good. Lower fit should be very important and it should be base 
+    look for lower. Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one 
+    and buy. Check the packet place, design, size with previously used one and buy.
  
     Formal Shirts: Always buy branded shirts. In Branded cloth type, there are high and low quality branded shirts, only buy high quality branded shirts. Before
     buy always check multiple times whether the shirt quality is good or not. In some shops, they sell worst fabric in the name of branded shirts, before buy
@@ -150,7 +150,7 @@ Fashion:
     Buy only Plain and Checked design shirts, others don't buy. Only buy others with limit when it is attractive, else don't buy.
 
     Pants: Always the cloth is high quality.
-    Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy(optional)   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
+    Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy long or short and need to have perfect length. Always check with 
     previously used one. Fitting also impotant. Packet type, check and buy with previously used one. Before buy always wear and check, because the size
@@ -158,10 +158,11 @@ Fashion:
     wear and check whether it is perfect fit or not. Only little much hip tight or loose be adjustable, but not more(Example: Before buy always wear and check the
     hip size with older one and then buy. Fitting also need to have perfect slim fit). 
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
-    cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one.
-    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose Regular fit and Slim fit.
-    Other fittings should not be good. Regular fit should be good compared to Slim fit. Pant fit should be very important and it should be base look for pant.
-    Both the leg opening(cuff) need to be same size. Check the packet place, design, size with previously used one and buy.
+    cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one and then
+    buy.
+    Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose only Slim fit. Don't buy other
+    fitting type. Before buy, wear and check with previously used fitting and buy the same fit. Other fittings should not be good. Pant fit should be very important
+    and it should be base look for pant. Both the leg opening(cuff) need to be same size. Check the packet place, design, size with previously used one and buy.
 
     Vest and Underwear:
     Vest - Always have white colour. Example - If you have 2 vest, 1 vest need to be in white colour. Size - 90. Cloth and design Check and buy with previously
