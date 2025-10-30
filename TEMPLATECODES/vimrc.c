@@ -153,10 +153,12 @@ Fashion:
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
     Only buy above colors, it suits for all shirts. Don't buy other colors. Optional also buy only if color suits perfectly or don't buy. Only buy blue jeans 
     color pant, don't buy other color jeans. In Pant, Length size be more important, don't buy long or short and need to have perfect length. Always check with 
-    previously used one. Fitting also impotant. Packet type, check and buy with previously used one. Before buy always wear and check, because the size
-    you buy will change based upon many brands(Example: One brand L size suits, another brand XL size suits). In hip place, some look too tight or too loose, So
-    wear and check whether it is perfect fit or not. Only little much hip tight or loose be adjustable, but not more(Example: Before buy always wear and check the
-    hip size with older one and then buy. Fitting also need to have perfect slim fit). 
+    previously used one. Fitting also impotant. Packet type, check and buy with previously used one. In hip place, some look too tight or too loose, So wear and 
+    check whether it is perfect fit or not. Only little much hip tight or loose be adjustable, but not more(Example: Before buy always wear and check the hip size 
+    with older one and then buy. Fitting also need to have perfect slim fit). If you buy, the pant size will change based upon many brands in the same size number,
+    So wear and check, then buy. Only specific brands size will have perfect size and fitting(Example: If you buy size 32, there is lot of changes in the size of 
+    the pant size 32, only some pant will have perfect slim fit in the size 32. So wear and check, then buy).
+    Types of Slim Fit: 1. Perfect Slim Fit   2. Normal SLim Fit   3. Loose Slim Fit.       Always buy Perfect and Normal Slim Fit, don't buy Loose Slim Fit.
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one and then
     buy.
