@@ -140,7 +140,7 @@ Fashion:
     before buy. Only little much Breadth and Length should be adjustable, but not more(Example: Check the shirts which is already present with you, there is only
     little much size difference compared to one another. But not more size difference, Same thing when you buy new shirts, only need to have that much little 
     differences in size, but not more differences in size. If you don't get proper fitted shirts in shops, just don't buy, only buy when new loaded shirts are
-    updated or move to some other shops to buy).
+    updated or move to some other shops to buy). The side seam need to be in straight line shape, not as other shape.
     Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
     Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy. Shirts need to have single packet with full
     Sleeve. Check the length and width with previously used one.
@@ -157,7 +157,9 @@ Fashion:
     check whether it is perfect fit or not. Only little much hip tight or loose be adjustable, but not more(Example: Before buy always wear and check the hip size 
     with older one and then buy. Fitting also need to have perfect slim fit). If you buy, the pant size will change based upon many brands in the same size number,
     So wear and check, then buy. Only specific brands size will have perfect size and fitting(Example: If you buy size 32, there is lot of changes in the size of 
-    the pant size 32, only some pant will have perfect slim fit in the size 32. So wear and check, then buy).
+    the pant size 32, only some pant will have perfect slim fit in the size 32. So wear and check, then buy. If hip size is loose in size 32, don't buy size 30. In
+    size 30, you will get good hip size but other parts will not fit properly and have bad look. In size 32 itself, some other branded will have perfect hip fit and
+    other parts also will have perfect fit. So buy in the size 32 itself. Also refer the fittings in the older one and then buy.).
     Types of Slim Fit: 1. Perfect Slim Fit   2. Normal SLim Fit   3. Loose Slim Fit.       Always buy Perfect and Normal Slim Fit, don't buy Loose Slim Fit.
     Cloth types - Cotton, Lenin, Denim, Nylon, Lenin-Cotton, Polyester, Lycra, etc...   Mostly choose Cotton - Buy with high quality cotton pant. There is lot of
     cotton clothes with high and low qualities, buy high quality. In denim type, only buy blue color. Always check the pant cloth with previously used one and then
