@@ -184,6 +184,12 @@ Fashion:
     and different, only that much sizes should adjustable to buy and wear. Don't buy other sizes compared to older one. Only little much breadth and length should
     be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another).
 
+    Always wash clothes in hand and don't use brushes during wash, use some cover in hand to wash and this avoid injury in hand also. Don't use washing machine or
+    some other things to wash clothes, only wash by hand, it only doesn't damage the clothes. After soak, wash seperately every clothes to avoid color mixing to 
+    one to another, mostly wash dark colors seperately and light colors seperately(Mainly wash white colors seperately). After wash, to dry the clothes, put the 
+    clothes in some place other than sunlight, if you put clothes to dry in sunlight, then the cloth and color became worse, so put it in safe place. While putting
+    the cloth in rope, always use loose clips in safe for clothes, don't use tight clips, it will damage the cloth.
+
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
 Football:
