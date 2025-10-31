@@ -114,7 +114,7 @@ Fashion:
     part, always wear and check whether it is having perfect fit or not, only then buy, because some cuff should be bend or not proper fit, before buy wear and 
     check the cuff with already used one and buy the same cuff size. The length and breadth should be only little much adjustable(not more), when you buy, compare 
     with older one or try to buy same size, but don't buy other sizes. In the same brand and same size number, the cuff size should vary, so always check with 
-    previously used one and wear and check whether is having perfect fit or not, then buy.
+    previously used one and wear and check whether it is having perfect fit or not, then buy.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
