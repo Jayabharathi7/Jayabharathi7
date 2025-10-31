@@ -113,7 +113,8 @@ Fashion:
     perfect size, wear and check it. Try to buy long body length. Always wear and check before buy. Chest size need to have perfect fitting. Cuff be very important
     part, always wear and check whether it is having perfect fit or not, only then buy, because some cuff should be bend or not proper fit, before buy wear and 
     check the cuff with already used one and buy the same cuff size. The length and breadth should be only little much adjustable(not more), when you buy, compare 
-    with older one or try to buy same size, but don't buy other sizes.
+    with older one or try to buy same size, but don't buy other sizes. In the same brand and same size number, the cuff size should vary, so always check with 
+    previously used one and wear and check whether is having perfect fit or not, then buy.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
@@ -182,7 +183,8 @@ Fashion:
     shirts, inside also need to have same cloth, color, design. Everything(Shirt,Pant,Tshirt,Lower) before buy, Check the size with previously used one and buy the
     same sizes again, only little much size should be adjustable(Example: Already multiple shirts available with you, in that only little much size should be vary
     and different, only that much sizes should adjustable to buy and wear. Don't buy other sizes compared to older one. Only little much breadth and length should
-    be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another).
+    be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another). Sometimes, in the same brand
+    and in the same size number, the size should vary, so check with previously used one and wear and check whether it is correct size or not, then buy.
 
     Always wash clothes in hand and don't use brushes(it will damage the cloth) during wash, use some cover in hand to wash and this avoid injury in hand also. 
     Don't use washing machine or some other things to wash clothes, only wash by hand, it only doesn't damage the clothes. After soak, wash seperately every 
