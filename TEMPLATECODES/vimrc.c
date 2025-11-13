@@ -104,7 +104,7 @@ Fashion:
 
     T-Shirts: Mostly prefer polo kind. Others should be less or optional.
     Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   4.Navy Blue   5.Black.
-    Optional colour - Red,Green,Grey,Brown, etc....
+    Optional colour - Red, Dark Green, Grey, Dark Brown, etc....
     In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
@@ -142,13 +142,13 @@ Fashion:
     little much size difference compared to one another. But not more size difference, Same thing when you buy new shirts, only need to have that much little 
     differences in size, but not more differences in size. If you don't get proper fitted shirts in shops, just don't buy, only buy when new loaded shirts are
     updated or move to some other shops to buy). The side seam need to be in straight line shape, not as other shape.
-    Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.
+    Plain - White, Black, Light Grey, Beige, Navy Blue. Other plains will be optional.   Optional - Maroon, Dark Brown, etc...
     Checked - Mostly prefer blue, red, brown, green, maroon etc...  The shirts need to be attractive or don't buy. Shirts need to have single packet with full
     Sleeve. Check the length and width with previously used one.
-    Cloth types - Cotton, Lenin, Polyester, Flannel, Denim, etc...   There is lot of clothes in shirts, so check before buy. Mostly don't buy Denim, Lenin,
-    etc...   Buy Cotton, flannel with high qualities. Polyester with plain shirt is fine, but not in Checked. Cotton plain also fine. For Checked buy high 
-    qualities or check and buy with previously used one. For plain shirts also check with previously used cloth.
-    Buy only Plain and Checked design shirts, others don't buy. Only buy others with limit when it is attractive, else don't buy.
+    Cloth types - Cotton, Lenin, Polyester, Flannel, Denim, etc...   There is lot of clothes in shirts, so check before buy. Mostly don't buy Denim etc...   
+    For shirts, always check the cloth type with previously used one and try to buy the same quality fabric. There are lot of cloth types in hand, check with that
+    cloth type and try to buy the same cloth type. Buy only Plain and Checked design shirts, others don't buy. Only buy others with limit when it is attractive, 
+    else don't buy.
 
     Pants: Always the cloth is high quality.
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
