@@ -147,8 +147,8 @@ Fashion:
     Sleeve. Check the length and width with previously used one.
     Cloth types - Cotton, Lenin, Polyester, Flannel, Denim, etc...   There is lot of clothes in shirts, so check before buy. Mostly don't buy Denim etc...   
     For shirts, always check the cloth type with previously used one and try to buy the same quality fabric. There are lot of cloth types in hand, check with that
-    cloth type and try to buy the same cloth type. Buy only Plain and Checked design shirts, others don't buy. Only buy others with limit when it is attractive, 
-    else don't buy.
+    cloth type and try to buy the same cloth type, in that clothes types, some cloth should be good, try to buy the same. Buy only Plain and Checked design shirts,
+    others don't buy. Only buy others with limit when it is attractive, else don't buy.
 
     Pants: Always the cloth is high quality.
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
