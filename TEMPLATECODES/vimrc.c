@@ -103,8 +103,8 @@ Fashion:
     1.Cloth  2.Colour  3.Design  4.Size  5.Fitting  6.Extra wearable things
 
     T-Shirts: Mostly prefer polo kind. Others should be less or optional.
-    Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   4.Navy Blue   5.Black.
-    Optional colour - Red, Dark Green, Grey, Dark Brown, Pastel Pink, Powder Blue, Pistachio green, etc....
+    Colours - 1.Light Purple   2.Maroon   3.Coral or Salmon Orange   4.Navy Blue   5.Black   6.Pastel Pink.
+    Optional colour - Red, Dark Green, Grey, Dark Brown, Powder Blue, Pistachio green, etc....
     In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
@@ -119,14 +119,14 @@ Fashion:
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
 
     Lower: Cotton lower and plain.
-    Colour - 1. Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
+    Colour - 1.Dark Blue   2. Dark Grey   3.Grey   4. Black(optional).     In lower, length size be important, check with previously used one and buy.
     Only buy above mentioned colors, it suits all tshirts. Don't buy other colors. The length should not be long or short and need to have perfect length. 
     Check with previously used one. Check the designs, packet type with previously used one. Buy plain lowers. Before buy always wear and check, because the size
     you buy will change based upon many brands(Example: One brand L size suits, another brand XL size suits). In hip place, some look too tight or too loose, So
     wear and check whether it is perfect fit or not. Only little much hip tight or loose be adjustable, but not more(Example: Before buy always wear and check the
     hip size with older one and then buy. Fitting also need to have perfect slim fit).
-    Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose mostly Cotton - Try high quality fabric and check with previously used one. There is
-    lot of cotton clothes, try best cloth.
+    Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose Cotton or Polyester, but try to buy mostly cotton - Try high quality fabric and 
+    check with previously used one. There is lot of cotton clothes, try best cloth.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose only Slim fit, Don't buy other 
     fittings. Before buy, check with previously used fitting and buy. Other fittings should not be good. Lower fit should be very important and it should be base 
     look for lower. Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one 
