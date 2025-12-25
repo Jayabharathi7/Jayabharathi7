@@ -127,6 +127,7 @@ Fashion:
     hip size with older one and then buy. Fitting also need to have perfect slim fit).
     Cloth types - Cotton, Polyester, Poly-cotton, Wool blends, etc...   Choose Cotton or Polyester, but try to buy mostly cotton - Try high quality fabric and 
     check with previously used one. There is lot of cotton clothes, try best cloth.
+    Types of Slim Fit: 1. Perfect Slim Fit   2. Normal SLim Fit   3. Loose Slim Fit.       Always buy Perfect and Normal Slim Fit, don't buy Loose Slim Fit.
     Types of fittings: Boot cut fit, Regular fit, Baggy fit, Relaxed fit, Drop crotch, Slim fit, Skinny fit, Loose fit. Always choose only Slim fit, Don't buy other 
     fittings. Before buy, check with previously used fitting and buy. Other fittings should not be good. Lower fit should be very important and it should be base 
     look for lower. Both the leg opening(cuff) need to be same size. Lower packets need to be in corner side and not in front side, check with previously used one 
