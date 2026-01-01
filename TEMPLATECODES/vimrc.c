@@ -191,11 +191,9 @@ Fashion:
     same sizes again, only little much size should be adjustable(Example: Already multiple shirts available with you, in that only little much size should be vary
     and different, only that much sizes should adjustable to buy and wear. Don't buy other sizes compared to older one. Only little much breadth and length should
     be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another). Sometimes, in the same brand
-    and in the same size number, the size should vary, so check with previously used one and wear and check whether it is correct size or not, then buy. Everything
-    (Shirt, Pant, Tshirt, Lower) when you buy in shop, sometimes the size should be less or more, they sellers say like, it should be adjustable to wear and looks
-    good, but don't buy until you get the perfect size(Example: If size is small, they say like it should be adjustable to wear, but it don't look good. If the size
-    is big, they say like, it should be able to stitch small with tailor or able to alter, but after stitch it will not look good. So when you buy itself, buy the
-    perfect size, if you don't get the proper size, wait until you get the perfect size, then buy).
+    and in the same size number, the size should vary, so check with previously used one and wear and check whether it is correct size or not, then buy. Mostly
+    everything(Shirt,Pant,Tshirt,Lower) while buying itself try to buy everything perfect size, don't try to make alter or stitch with tailor to make perfect size,
+    but only t shirt cuff size is good to make alter or stitch with a tailor to make perfect fitting.
 
     Always wash clothes in hand and don't use brushes(it will damage the cloth) during wash, use some cover in hand to wash and this avoid injury in hand also. 
     Don't use washing machine or some other things to wash clothes, only wash by hand, it only doesn't damage the clothes. After soak, wash seperately every 
