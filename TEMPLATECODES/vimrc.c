@@ -195,7 +195,8 @@ Fashion:
     be adjustable, which is already present with you, the shirts should be only little much size difference compared to one another). Sometimes, in the same brand
     and in the same size number, the size should vary, so check with previously used one and wear and check whether it is correct size or not, then buy. Mostly
     everything(Shirt,Pant,Tshirt,Lower) while buying itself try to buy everything perfect size, don't try to make alter or stitch with tailor to make perfect size,
-    but only t shirt cuff size is good to make alter or stitch with a tailor to make perfect fitting.
+    but only t shirt cuff size is good to make alter or stitch with a tailor to make perfect fitting. While Stitching or altering, always use high quality thread
+    for not to tear(Example: Always use pant thread(Polyester)).
 
     Always wash clothes in hand and don't use brushes(it will damage the cloth) during wash, use some cover in hand to wash and this avoid injury in hand also. 
     Don't use washing machine or some other things to wash clothes, only wash by hand, it only doesn't damage the clothes. After soak, wash seperately every 
