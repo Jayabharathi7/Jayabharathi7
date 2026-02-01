@@ -118,8 +118,8 @@ Fashion:
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
     If Cuff is loose, make a perfect stitch with a tailor(altering the cuff), then the cuff should have a perfect fitting. But don't make too tight while stitching.
-    Bend or fold the arm to check the cuff size or check the cuff size with previously used one and give it to tailor to stitch correctly(Example: Currently the 
-    perfect cuff size is 5.5cm, in future based upon arm size,calculate and stitch correctly). While stitching or altering, always use high quality thread for not
+    Hold the arm in straight to check the cuff size or check the cuff size with previously used one and give it to tailor to stitch correctly(Example: Currently the 
+    perfect cuff size is 5.25cm, in future based upon arm size,calculate and stitch correctly). While stitching or altering, always use high quality thread for not
     to tear(Example: Always use pant thread(Polyester)). Mostly while buying itself try to buy perfect cuff size, if not having a perfect cuff size then give it to 
     tailor to stitch. Always buy only short or medium sleeve length, don't buy long sleeve length, it will not looks good or check with previously used sleeve 
     length size and buy the same. There is lot of polo t shirt type, only buy perfect fitting type polo t shirt brands, mostly sports wear type will have a good 
