@@ -105,7 +105,8 @@ Fashion:
     T-Shirts: Mostly prefer polo kind. Others should be less or optional.
     Colours - 1.2 Navy Blue   2.Maroon   3.Coral or Salmon Orange   4.Black   5.Light Purple
     Optional colour - Red, Dark Green, Grey, Dark Brown, Powder Blue, Pistachio green, Pastel Pink etc....
-    Mostly try to buy more dark colors than light colors(Example : If you have 5 T shirts in use, 3 be dark and 2 be light).
+    Mostly try to buy more dark colors than light colors(Example : If you have 5 T shirts in use, 3 be dark and 2 be light. Navy blue is too good, then you need to
+    have 2 navy blues in hand to use regularly than other colors).
     In a specific color there is lot of shades, if single shades change then the color be worst. So be careful and choose. Check the Length and Width, then Armhole 
     and cuff be very important, because the sleeve will be base look for tshirt. Before buy check with previous one already present with you, always have perfect 
     size in hand. Based upon brand M(Medium), L(Large), XL(Extra Large) size will change, So do not look at that. Only above mentioned things need to match.
