@@ -160,7 +160,8 @@ Fashion:
     For shirts, always check the cloth type with previously used one and try to buy the same quality fabric. There are lot of cloth types in hand, check with that
     cloth type and try to buy the same cloth type, in that clothes types, some cloth should be good, try to buy the same. Buy only Plain and Checked design shirts,
     others don't buy. Only buy others with limit when it is attractive, else don't buy. If shirt width is little much large, then try to wear little much large  
-    width sized slim fit pant.
+    width sized slim fit pant. Shirt length should not be large compared to previously used one, but width should be little much large as adjustable, length and
+    width also should not be small compared to previously used one. 
 
     Pants: Always the cloth is high quality.
     Formal - 1. Black   2.Mostly Light Grey, then Grey   3.Light Creamy   4.Other Colors(optional).   Jeans - 1. Only Blue jeans.
