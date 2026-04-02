@@ -49,9 +49,6 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 
 ROYAL MENS WEAR(ROLE MODEL FOR WHOLE LIFE)   
-/*
-Information
-Updates upto 2025
 
 Accounts:
 For PDF Documents:
@@ -271,7 +268,6 @@ Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes
 Watch,Chain,Glass,Trimmer,Headset  
 
 Perfume:
-Best smell - Fogg(Marco), Axe(Dark Tempation)
 Attractive smells:   Primary - Vanilla, Jasmine, Chocolate, Musk   Secondary - Rose, Sandalwood, Lavender
 1.Perfume    - More Price. Long lasting fragrance.  
 2.Body Spray - Average Price. Lighter fragrance with a shorter lifespan.
@@ -326,8 +322,9 @@ Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best me
 
 Essential Fruits - Banana, Guava, Orange or Mosambi, Amla   Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries,
 Avocado, Mango, Grapefruit, Pineapple, Tomatoes.
-Essential Vegetables - 1.Spinach 2.Kale 3.Broccoli 4.Carrots 5.Sweet Potatoes 6.Beets 7.Peas 8.Fermented vegetables 9.Tomatoes 10.Bell peppers 11.Mushrooms
-12.Red cabbage 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
+Essential Vegetables - 1.Spinach,Kale 2.Broccoli,Lady's Fingers 3.Beans 4.Carrots 5.Beetroot 6.Potatoes 7.Cabbage 8.Fermented vegetables 9.Tomatoes 
+10.Bell peppers 11.Mushrooms 12.Peas 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
+First Seven vegetables are necessaty to eat, remainings are optional.
 
 Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
 
