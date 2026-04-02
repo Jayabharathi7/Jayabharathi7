@@ -237,8 +237,6 @@ Beer         Mead          Gin       Rum         Absinthe     Schnapps      Carl
 Wine         Sake          Brandy    Tequila     Everclear                  Kingfisher  Tuborg         Bira         Pinot Noir  Chardonnay       Malbec
 Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
 
-Don't drink in important place and time. It has some best time to consume and enjoy it.
-                                             
 Healthy Foods:
 Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Whole Wheat Bread        Cheese
 Avocados          Lean beef         Macadamia Nuts    Carrots       Tomatoes   Tuna           Potatoes                 Dairy Milk
@@ -324,7 +322,7 @@ Essential Fruits - Banana, Guava, Orange or Mosambi, Amla   Needed - Pomegranate
 Avocado, Mango, Grapefruit, Pineapple, Tomatoes.
 Essential Vegetables - 1.Spinach,Kale 2.Broccoli,Lady's Fingers 3.Beans 4.Carrots 5.Beetroot 6.Potatoes 7.Cabbage 8.Fermented vegetables 9.Tomatoes 
 10.Bell peppers 11.Mushrooms 12.Peas 13.Garlic 14.Onions 15.Eggplant 16.Cauliflower 17.Brussels Sprouts
-First Seven vegetables are necessaty to eat, remainings are optional.
+First Seven vegetables are necessary to eat, remainings are optional.
 
 Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
 
