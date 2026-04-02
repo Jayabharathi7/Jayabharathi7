@@ -55,15 +55,15 @@ Updates upto 2025
 
 Accounts:
 For PDF Documents:
-1. Google Drive:                                 2. Adobe Acrobat:                            3. Dropbox:
-   Email : bharathijayaram1999@gmail.com            Email : bharathijayaram1999@gmail.com       Email : Same Google Account
+1. Google Drive:                                 2. Adobe Acrobat:                           
+   Email : bharathijayaram1999@gmail.com            Email : bharathijayaram1999@gmail.com       
    Psswd : bharathi (or) bharathi1999
    
 For Coding Platforms:   
-1. Github Profile:                                2. SourceForge Profile:                 3. Online GDB Compiler:
-   Username : bharathijayaram1999@gmail.com          Name     : Bharathi                     User : Same Google Account
-   Password : Bharathi@07@1999                       Username : bharathi1999
-   Name     : Jayabharathi7                          Passwd   : $Source+Forge_@1999=~;
+1. Github Profile:                               2. Online GDB Compiler:
+   Username : bharathijayaram1999@gmail.com         User : Same Google Account
+   Password : Bharathi@07@1999                       
+   Name     : Jayabharathi7                        
 
 UK singers - Male                                 Female                    Actors                 Actress
              Alan walker       Harry styles       Dua lipa                  Daniel Radcliffe       Keira knightley   
