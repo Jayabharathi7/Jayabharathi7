@@ -216,55 +216,6 @@ FA Cup Trophy                 UEFA European Championship
 
 Leagues:   1.Bundesliga     2.Premier League     3.Serie A      4.La Liga      5.Ligue 1       6.Primeira Liga
 
-Drinks:
-3 Types of Alhocol:
-Methanol    - Fuel for cars and boats.Used to manufacture antifreeze,paint remover,windshield wiper fluid and many other products.
-Ispropanol  - Chemical name for rubbing alcohol. Used for cleaning and disinfecting.
-Both methanol and isopropanol are poisonous to humans because our bodies metabolize them as toxic substances which cause liver failure. 
-Drinking even a small amount of methanol or rubbing alcohol can be fatal.
-
-Ethanol     - Ethanol (or ethyl alcohol) is the type of alcohol,people drinks.
-
-Most Pub Countries:
-United Kingdom    Czechia       Luxembourg    Brazil
-Japan             Ireland       Uganda        Singapore
-Germany           Netherlands   Iceland       Israel
-Spain             Thailand      China         Serbia
-United States     Argentina     Australia
-
-Undistilled Drinks:        Distilled Drinks:(Liquors and Spirits)           Best Beers:                             Best Wines:
-Beer         Mead          Gin       Rum         Absinthe     Schnapps      Carlsberg   Heineken       Hoegaarden   Cabernet    Sauvignon Blanc  Pinot Grigio
-Wine         Sake          Brandy    Tequila     Everclear                  Kingfisher  Tuborg         Bira         Pinot Noir  Chardonnay       Malbec
-Hard Cider                 Whiskey   Vodka       Liqueurs                   Budweiser   Stella Artois  Corona       Merlot      Syrah            Rose
-
-Healthy Foods:
-Apples            Eggs              Coconuts          Broccoli      Onions     Trout          Whole Wheat Bread        Cheese
-Avocados          Lean beef         Macadamia Nuts    Carrots       Tomatoes   Tuna           Potatoes                 Dairy Milk
-Bananas           Chicken Breasts   Brazil Nuts       Cauliflower   Salmon     Brown Rice     Green Beans              Yogurt
-Blueberries       Lamb and Mutton   Walnuts           Cucumber      Sardines   Oats           Kidney Beans             Extra-Virgin Olive Oil
-Oranges           Almonds           Asparagus         Garlic        Shellfish  Quinoa         Lentils                  Coconut Oil
-Strawberries      Chia Seeds        Bell Peppers      Kale          Shrimp     Ezekiel Bread  Peanuts                 
-
-Sweet Potatoes           Grains            Some Vegetable Oils                   Kiwi                    Black Beans
-Apple Cider Vinegar      Spinach           Barley                                Bulgur                  Pomegranates
-Dark chocolate           Dates             Chard                                 Whole-grain Pasta
-Peas                     Nut Butter        Some Plant-based Meat Products        Pumpkin                   
-Mixed Dishes             Meats             Breakfast Cereal                      Mushrooms                  
-Turmeric                 Water             Soy                                   Edamame                                
-
-Dark Green Leafy Vegetables               Cinnamon      Berries              
-Bivalves such as Oysters and Clams        Dry Fruits    Complan,Horlicks    
-Crustaceans such as Lobster and Shrimp    Badam Mix     Watercress
-Cashew Nuts                               Ghee          Brussels Sprouts              
-Lemons                                    Wheat Germ    Groundnut          
-Biscuits - Unibic, Nutrichoice,           Watermelon            
-Farmlite Digestive.                       Green Tea          
-
-Household Items:
-Laptop         Himalaya -Soap,Shampoo,Paste,Brush        Pain Balm,Bandage,Inhaler
-Mobile         Notebook,Gel Pen, Daily Learn New Things  Dumbells,Skipping Ropes
-Watch,Chain,Glass,Trimmer,Headset  
-
 Perfume:
 Attractive smells:   Primary - Vanilla, Jasmine, Chocolate, Musk   Secondary - Rose, Sandalwood, Lavender
 1.Perfume    - More Price. Long lasting fragrance.  
@@ -313,8 +264,8 @@ Alarm setting sleep is Fiction. Sleep based upon your feel and mind, but 7-8 hou
 
 Basic Essential Foods:
 It is cheap and best. It should be more enough.
-3 Times Food : Breakfast: Idly or Dosa or Sapathi or Idiyappam(Sometimes)  Lunch: Veg Meals with vegetables or Non-Veg Meals or Biryani(optional) or 
-Fried Rice(optional).  Dinner: Idly or Dosa or Sapathi(mostly preferable) or Idiyappam(Sometimes)
+3 Times Food : Breakfast: Idly or Dosa or Sapathi or Idiyappam(Sometimes)  Lunch: Veg Meals with vegetables  
+Dinner: Idly or Dosa or Sapathi(mostly preferable) or Idiyappam(Sometimes)
 1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits           1.Lemon Tea  2.Green Tea
 Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best medicine. Every thing eat only when made with hygiene.
 
@@ -325,10 +276,6 @@ Essential Vegetables - 1.Spinach,Kale 2.Broccoli,Lady's Fingers 3.Beans 4.Carrot
 First Seven vegetables are necessary to eat, remainings are optional.
 
 Carbohydrates - Rice, Protein - Guava, Fat - Almond, Minerals - Banana, Vitamins - Orange, Fibre - Wheat Bread.
-
-Optional: Consume in Moderation
-1.Chicken 65  2.Energy drinks in shop fridge  3.Dates  4.Peanut candy  5.Palkova  6.Chickpeas  7.Soup or blood fry(only hygiene)  8.Healthy Snacks  
-May be other things be added above in future.
 
 Essential substances in food are 1.Carbohydrates 2.Protein 3.Fats 4.Vitamins 5.Minerals 6.Water 7.Fibre
 Atlast search everything is present in your food intake. Mostly avoid sugar related foods.
