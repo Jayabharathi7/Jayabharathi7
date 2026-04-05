@@ -266,7 +266,7 @@ Basic Essential Foods:
 It is cheap and best. It should be more enough.
 3 Times Food : Breakfast: Idly or Dosa or Sapathi or Idiyappam(Sometimes)  Lunch: Veg Meals with vegetables  
 Dinner: Idly or Dosa or Sapathi(mostly preferable) or Idiyappam(Sometimes)
-1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits           1.Lemon Tea  2.Green Tea
+1.Friuts  2.Milk  3.Eggs  4.Wheat Bread  5.Dry Fruits           1.Lemon Tea 2.Green Tea 3.Dark Chocolate 
 Mostly try to eat veg compared to non-veg. Vegetables and Fruits are the best medicine. Every thing eat only when made with hygiene.
 
 Essential Fruits - Banana, Guava, Orange or Mosambi, Amla   Needed - Pomegranate, Apple, Indian Blackberry.  Additional - Lemon, Blueberries, Strawberries,
