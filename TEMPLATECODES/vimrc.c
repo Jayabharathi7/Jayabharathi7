@@ -202,7 +202,8 @@ Fashion:
     clothes to avoid color mixing to one to another, mostly wash dark colors seperately and light colors seperately(Mainly wash white colors seperately). After 
     wash, to dry the clothes, put the clothes in some places other than sunlight, if you put clothes to dry in sunlight, then the cloth and color became worse, so 
     put it in safe place. While putting the cloth in rope to dry, always use loose clips in clothes for not to fly, don't use tight clips, it will damage the cloth.
-
+    while twisting, twist with less and not more, cloth will tear if twist with more or tight.
+   
 PG/Hostel/Home:    Country ->   City/Town/Village ->   1.Area   2.Environment   3.Culture
 
 Football:
