@@ -48,7 +48,7 @@ autocmd BufNewFile *.c 0r ~/Templates/temp.c
 
 
 
-ROYAL MENS WEAR(ROLE MODEL FOR WHOLE LIFE)   
+
 
 Accounts:
 For PDF Documents:
