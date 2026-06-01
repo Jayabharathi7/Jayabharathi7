@@ -114,7 +114,7 @@ Fashion:
     check the cuff with already used one and buy the same cuff size. The length and breadth should be only little much adjustable(not more), when you buy, compare 
     with older one or try to buy same size, but don't buy other sizes. In the same brand and same size number, the cuff size should vary, so always check with 
     previously used one and wear and check whether it is having perfect fit or not, then buy. While buying itself, first check the things(Length, Breadth, Sleeve
-    Length, etc...) and then only buy the tshirt.
+    Length, etc...) with previously used one and then only buy the tshirt.
     Cloth types - Cotton, Polyester, Cotton-Polyester Blend, Jersey, etc...   Choose mostly Polyester - If you take specific kind of cloth, there is lot of changes
     and qualities, high and low qualities. So check before buy. Example - There is lot of Polyester clothes in t shirt, try best quality. 
     If Cuff is loose, make a perfect stitch with a tailor(altering the cuff), then the cuff should have a perfect fitting. But don't make too tight while stitching.
