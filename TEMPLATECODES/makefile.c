@@ -181,7 +181,12 @@ Life Cycle and Habits:
 America and Canada - Mostly shows wrong things of life to live.    Bangalore - It also shows the best life cycle and how to live. 
 UK and Europe      - Mostly shows good things of life to live.	
 
-
+Top Pen Brands:
+Cello          - India    Parker    - USA       Lamy     - Germany
+Linc(Pentonic) - India    Montblanc - Germany   Cross    - USA
+Reynolds       - USA      Pilot     - Japan     Waterman - France
+ 
+UNOMAX(Cello company) - Currently using this gel pen brand. It is best for writing without any issues.
 
 
 
