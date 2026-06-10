@@ -186,7 +186,7 @@ Cello          - India    Parker    - USA       Lamy     - Germany
 Linc(Pentonic) - India    Montblanc - Germany   Cross    - USA
 Reynolds       - USA      Pilot     - Japan     Waterman - France
  
-UNOMAX(Cello company) - Currently using this gel pen brand. It is best for writing without any issues.
+UNOMAX ALL CLEAR(Cello company) - Currently using this blue gel pen brand. It is best for writing without any issues.
 
 
 
