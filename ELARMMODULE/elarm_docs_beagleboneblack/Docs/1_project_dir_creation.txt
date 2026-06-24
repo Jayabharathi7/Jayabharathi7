@@ -1,6 +1,0 @@
-# Create a project dircetory in users home directory
-mkdir ~/EOS
-
-# Create Sources directory to store downloaded packages
-cd EOS
-mkdir Sources

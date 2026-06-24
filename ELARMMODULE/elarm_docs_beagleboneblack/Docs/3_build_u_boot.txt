@@ -1,6 +1,0 @@
-# Configuring U-Boot
-make am335x_evm_defconfig
-
-# Build U-boot
-make
-
