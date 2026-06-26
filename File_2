@@ -7,23 +7,6 @@ CC3235MODSF   Atmel     Cortex       AVR          Zilog          TI(MSP)
 ESP32	      Arduino   Teensy       NXP LPC      TI
 	
 
-Top Tools:
-Keil      MPLAB          Espressif-IDE  
-MATLAB    CCS
-Ubuntu    SDK
-IDE       Arduino IDE
-
-
-Acadamics used tools:
-IDE, MATLAB, LABORATORY(Basic Hardware related in bread board), 8086 Development Kits, 8086 Assembler, 8051 Cross Assembler,
-Microcontroller, Xilinx, FPGA Boards, Embedded trainer kits with ARM Board, MASM(Macro Assembler)
-
-
-Acadamics skills learned:
-Python, Circuit lab, C, Data Structures, Analog and Digital Circuits, Linear IC lab, DSP lab, Network lab, Communication System lab,
-VLSI, Microcontroller and Microprocessor, Embedded lab, Hardware
-
-
 Top Operating Systems:	
 Windows    Linux Kernel   Chrome_OS
 Android	   Ubuntu         Apple_ios
@@ -58,6 +41,7 @@ Philips            - Netherlands      Hexaware Technolgies - India        STMicr
 NXP Semiconductors - Netherlands      Tata Elxsi           - India
 Analog Devices     - USA	      Robert Bosch         - Germany
 
+
 Indian Products:
 MRF                SBI        Reliance Jio        Mahindra
 Ashok Leyland      HDFC       Karbonn Mobiles     Tata Motors
@@ -69,20 +53,24 @@ Ola                Bajaj      TVS motor
 Products:
 vodafone - UK
 
+
 Mobiles:
 Xiaomi - China     Samsung    - South Korea    Lenovo  - china       Oppo     - China     Huawei - China
 Vivo   - China     Apple      - USA            Nokia   - Finland     Motorolo - USA       Sony   - Japan
 Realme - China	   Blackberry - Canada         Oneplus - China       POCO     - China
+
 
 Laptops:
 Dell   - USA       Acer  - Taiwan      Microsoft - USA             Xiaomi - China
 HP     - USA       Asus  - Taiwan      Samsung   - South korea
 Lenovo - China	   Apple - USA         LG        - South korea
 
+
 Bikes:
 Honda  - Japan     Kawasaki - Japan       Harley Davidson - USA
 Yamaha - Japan     Aprilia  - Italy
 Ducati - Italy     KTM      - Austria 
+
 
 Cars:
 Toyota  - Japan          Ford    - USA            Audi          - Germany     MG Motors   - UK       Ferrari - Italy     Buggati     - France
@@ -90,38 +78,6 @@ Hyundai - South Korea    kia     - South Korea    Volkswagen    - Germany     Ni
 Honda   - Japan          Porsche - Germany        Merceded Benz - Germany     Suzuki      - Japan    Jeep    - Italy
 BMW     - Germany        Tesla   - USA            Chevrolet     - USA         Rolls royce - UK
 
-Top Countries:
-Switzerland      Australia          Germany          Netherlands
-Canada           Unites States      New Zealand
-Sweden           Japan              United Kingdom
-
-Richest Persons:
-Elon Musk                   Mark Zuckerberg     
-Jeff Bezos                  Bill Gates
-Bernard Arnualt & Family
-
-Top Jobs in IT:
-Data Scientist             IoT Solutions Architect  Web Developer        Database Management System(DBMS)  Core:
-DevOps Engineer            Cloud Architect          Cyber Security       System Architect                  Embedded Systems   Electrical Design
-Big Data Engineer          Blockchain Developer     Computer Programmer                                    VLSI               Electronics Engineer 
-Machine Learning Engineer  Full Stack Developer     Internet of Things                                     Hardware Engineer
-Artificial Intelligence    AR/VR Developer          Software Engineer                                      R&D Engineer
-
-Top Engineering Courses:
-Computer Science Engineering       Electrical and Electronics Engineer
-Artificial Intelligence,Machine    (Aeronautical Engineer) 
-Learning and Data Science          Electronics and Communication Engineer
-(Mechanical Engineer)              (Chemical Engineer)
-(Civil Engineer)                   (Agricultural Engineer)
-(Bio-Chemical Engineer)            (Biotechnology Engineer)
-Information Technology
-
-IT Cities in India:    IT Cities in World:              Best Cities to Live:                               Countries with Best Education:
-Bangalore              Singapore  Shangai    Seattle    Vienna       Geneva     Adelaide   Brisbane        United States     Japan
-Hyderabad              New York   Tokyo                 Copenhagen   Sydney     Toronto    Frankfurt       United Kingdom    Switzerland
-Chennai                Tel Aviv   Bangalore             Zurich       Vancouver  Helsinki   Luxembourg      Germany           Australia
-Pune                   Beijing    Hong Kong             Melbourne    Osaka      Tokyo      Amsterdam       Canada            Sweden 
-Mumbai                 London     Austin                Calgary      Auckland   Perth      Wellington      France            Denmark
 
 Top Pen Brands:
 Cello          - India    Parker    - USA       Lamy     - Germany
